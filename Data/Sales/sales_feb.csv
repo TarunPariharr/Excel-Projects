@@ -1,0 +1,1701 @@
+Date,Product ID,Sale Amount,Region,Discount,Quantity,Customer Type,Sales Rep,Payment Method,Return Status,Shipping Cost
+2/1/2024,P0072,406,North,34.42,16,Online,Alice,Cash,Yes,13.46
+2/1/2024,P0064,289,West,13.62,11,Retail,David,Credit Card,No,11.06
+2/1/2024,P0037,88,East,41.6,4,Wholesale,Bob,PayPal,No,12.35
+2/1/2024,P0031,252,West,4.19,18,Wholesale,David,Bank Transfer,No,10.33
+2/1/2024,P0037,202,West,38.66,5,Wholesale,David,Credit Card,No,9.19
+2/1/2024,P0045,479,East,5,6,Online,Bob,PayPal,No,15.12
+2/1/2024,P0090,427,East,44.06,2,Wholesale,Alice,Credit Card,No,16.68
+2/1/2024,P0008,251,South,15.21,12,Wholesale,Charlie,PayPal,Yes,18.11
+2/1/2024,P0040,60,East,32.72,9,Wholesale,Alice,PayPal,No,7.33
+2/1/2024,P0097,241,North,24.38,12,Retail,Alice,Credit Card,No,17.34
+2/1/2024,P0093,268,West,18.32,13,Retail,David,PayPal,No,8.82
+2/1/2024,P0005,393,South,32.27,17,Retail,Bob,Bank Transfer,Yes,11.41
+2/1/2024,P0028,384,East,47.38,5,Retail,Charlie,Bank Transfer,No,18.52
+2/1/2024,P0081,227,West,2.06,13,Retail,David,Credit Card,No,11.82
+2/1/2024,P0087,215,North,45.94,13,Retail,Charlie,Credit Card,No,7.96
+2/1/2024,P0009,323,North,30.45,10,Retail,David,PayPal,No,7.4
+2/1/2024,P0002,498,South,40.37,15,Wholesale,Bob,PayPal,No,12.09
+2/1/2024,P0063,390,North,19.19,15,Wholesale,Charlie,Credit Card,No,16.44
+2/1/2024,P0096,465,West,23.59,18,Online,Charlie,Cash,No,19.96
+2/1/2024,P0051,378,East,43.44,18,Wholesale,Alice,Credit Card,No,16.81
+2/1/2024,P0031,320,North,20.74,2,Retail,David,Cash,No,18.16
+2/1/2024,P0007,384,East,26.73,11,Retail,David,Cash,No,16.22
+2/1/2024,P0030,129,West,1.01,13,Online,David,Credit Card,No,18.43
+2/1/2024,P0058,89,West,7.93,11,Wholesale,Alice,Credit Card,No,6.14
+2/2/2024,P0003,51,East,32.08,4,Wholesale,Alice,Credit Card,No,18.95
+2/2/2024,P0051,30,West,35.85,15,Online,Charlie,Cash,No,10.95
+2/2/2024,P0056,19,South,29.13,11,Retail,David,Bank Transfer,No,18.82
+2/2/2024,P0073,322,North,7.17,18,Retail,David,Bank Transfer,No,6.14
+2/2/2024,P0010,162,South,22.27,16,Retail,Charlie,Credit Card,No,15.73
+2/2/2024,P0061,321,South,17.75,10,Retail,Charlie,Credit Card,No,16.04
+2/2/2024,P0050,303,South,24.78,12,Online,Charlie,PayPal,No,19.95
+2/2/2024,P0047,95,East,43.52,13,Wholesale,Bob,PayPal,No,16.53
+2/2/2024,P0090,122,East,38.79,9,Retail,Bob,PayPal,No,10.74
+2/2/2024,P0001,198,West,4.2,13,Wholesale,Charlie,Credit Card,Yes,13.36
+2/2/2024,P0094,121,East,44.52,6,Wholesale,Alice,Bank Transfer,No,10.5
+2/2/2024,P0057,184,West,23.59,6,Retail,Alice,Bank Transfer,No,7.94
+2/2/2024,P0038,319,East,37.19,11,Retail,David,Credit Card,No,8.73
+2/2/2024,P0062,311,West,7,19,Retail,Bob,Credit Card,No,8.33
+2/2/2024,P0079,461,North,33.54,11,Wholesale,Bob,Cash,No,13.23
+2/2/2024,P0089,13,West,11.82,10,Online,Charlie,Cash,No,18.59
+2/2/2024,P0070,231,North,21.92,15,Retail,Charlie,Bank Transfer,No,18.69
+2/2/2024,P0082,459,West,0.84,13,Wholesale,Charlie,PayPal,No,5.82
+2/2/2024,P0065,230,East,7.58,8,Wholesale,Charlie,Bank Transfer,No,6.2
+2/2/2024,P0062,180,East,4.6,5,Retail,Charlie,Cash,No,8.68
+2/2/2024,P0056,327,North,11.99,2,Online,Alice,Bank Transfer,No,8.83
+2/2/2024,P0067,493,South,5,16,Retail,Alice,Cash,No,6.42
+2/2/2024,P0017,222,South,34.6,13,Retail,Charlie,Cash,Yes,10.83
+2/2/2024,P0008,262,West,1.45,19,Online,Alice,PayPal,No,13.82
+2/3/2024,P0060,133,East,30.89,9,Retail,Charlie,PayPal,No,13.67
+2/3/2024,P0040,137,South,7.04,15,Retail,Charlie,Cash,No,13.15
+2/3/2024,P0081,222,East,47.26,6,Online,Bob,Credit Card,No,10.08
+2/3/2024,P0089,121,East,46.65,8,Wholesale,Alice,PayPal,No,15.6
+2/3/2024,P0062,94,East,11.28,14,Wholesale,Alice,Cash,No,17.4
+2/3/2024,P0041,13,West,30.72,5,Wholesale,Bob,Credit Card,No,10.19
+2/3/2024,P0012,74,North,1.4,17,Wholesale,Alice,Credit Card,No,6.28
+2/3/2024,P0093,327,West,46.59,7,Wholesale,Bob,Bank Transfer,No,9.44
+2/3/2024,P0089,355,South,26.15,9,Retail,David,Bank Transfer,No,7.06
+2/3/2024,P0100,129,North,2.16,16,Online,Alice,PayPal,No,12.01
+2/3/2024,P0054,252,South,17.12,18,Wholesale,Charlie,Credit Card,No,7.34
+2/3/2024,P0089,395,North,3.84,13,Online,Bob,PayPal,No,11.94
+2/3/2024,P0093,146,North,19.65,18,Wholesale,Charlie,Cash,No,8.32
+2/3/2024,P0011,256,West,33.5,10,Retail,Charlie,PayPal,No,16.08
+2/3/2024,P0060,450,East,23.49,1,Wholesale,Alice,Credit Card,No,5.41
+2/3/2024,P0068,54,East,19.19,18,Wholesale,Bob,Bank Transfer,No,13.32
+2/3/2024,P0078,155,North,5.96,19,Online,David,PayPal,No,7.54
+2/3/2024,P0046,377,West,12.25,2,Online,Charlie,Bank Transfer,No,5.01
+2/3/2024,P0038,185,South,5.01,4,Retail,Charlie,PayPal,No,18.04
+2/3/2024,P0061,51,South,40.37,11,Online,David,Cash,No,15.07
+2/3/2024,P0017,306,East,6.76,3,Online,Bob,Credit Card,No,6.48
+2/3/2024,P0066,468,East,29.77,9,Online,Alice,PayPal,Yes,14.96
+2/3/2024,P0072,98,South,17.14,10,Retail,Charlie,Cash,Yes,14.17
+2/3/2024,P0036,227,South,11.3,2,Retail,Alice,Cash,No,12.1
+2/4/2024,P0074,451,West,31.97,7,Retail,Bob,Cash,No,11.29
+2/4/2024,P0007,237,South,22.85,15,Online,David,Bank Transfer,No,18.31
+2/4/2024,P0100,307,West,20.01,19,Online,Alice,Bank Transfer,No,8.68
+2/4/2024,P0016,300,East,29.64,10,Retail,Bob,Cash,Yes,10.97
+2/4/2024,P0014,431,South,24.56,14,Online,Alice,Cash,No,9.94
+2/4/2024,P0080,76,East,15.17,4,Online,Alice,PayPal,No,16.57
+2/4/2024,P0025,260,North,27.95,11,Wholesale,Charlie,PayPal,No,18.75
+2/4/2024,P0004,50,North,33.47,3,Retail,Alice,Credit Card,No,17.75
+2/4/2024,P0029,108,North,1.33,17,Retail,Charlie,PayPal,No,16.97
+2/4/2024,P0056,315,South,23.29,7,Online,Bob,Credit Card,No,19.8
+2/4/2024,P0006,369,East,2.88,11,Online,Bob,Credit Card,No,15.46
+2/4/2024,P0001,351,South,9.32,18,Wholesale,Charlie,Credit Card,Yes,16.27
+2/4/2024,P0039,465,East,28.03,14,Retail,David,Bank Transfer,No,19.74
+2/4/2024,P0001,88,West,43.31,14,Retail,Alice,PayPal,No,5.1
+2/4/2024,P0063,310,South,44.14,6,Online,Bob,Cash,No,14.51
+2/4/2024,P0057,208,North,3.5,9,Retail,Bob,Credit Card,No,16.08
+2/4/2024,P0067,156,West,20.96,3,Online,David,Cash,No,18.77
+2/4/2024,P0065,497,East,29.15,17,Wholesale,Bob,Credit Card,No,18.26
+2/4/2024,P0065,115,South,7.35,12,Online,Charlie,PayPal,No,17.63
+2/4/2024,P0021,410,East,38.27,4,Wholesale,David,Credit Card,No,19.19
+2/4/2024,P0030,202,East,37.21,16,Online,Bob,PayPal,No,13.06
+2/4/2024,P0096,486,South,45.17,10,Wholesale,David,Cash,No,5.1
+2/4/2024,P0033,131,South,0.42,7,Wholesale,David,PayPal,No,5.17
+2/4/2024,P0048,86,East,10.83,10,Retail,Bob,Cash,No,13.17
+2/5/2024,P0022,321,East,41.36,7,Online,Bob,PayPal,No,11.53
+2/5/2024,P0094,121,West,33.53,18,Retail,Bob,Credit Card,No,11.77
+2/5/2024,P0054,358,North,44.72,9,Retail,David,Credit Card,No,11.01
+2/5/2024,P0004,306,East,2.86,18,Online,Charlie,PayPal,No,18.77
+2/5/2024,P0087,179,North,29.85,17,Retail,Charlie,Cash,No,10.39
+2/5/2024,P0055,15,West,28.45,11,Retail,Alice,Cash,No,17.84
+2/5/2024,P0044,206,North,1.78,1,Retail,Bob,Cash,No,18.54
+2/5/2024,P0089,107,North,25.68,17,Online,Charlie,PayPal,No,12.49
+2/5/2024,P0012,468,West,30.48,4,Retail,Alice,PayPal,No,11.7
+2/5/2024,P0081,338,East,9.56,4,Retail,Alice,PayPal,No,16.42
+2/5/2024,P0079,239,North,13.67,14,Retail,Bob,PayPal,No,15.62
+2/5/2024,P0074,177,East,32.02,9,Online,Alice,Cash,Yes,9.93
+2/5/2024,P0099,306,East,23.42,13,Wholesale,Charlie,Cash,No,6.54
+2/5/2024,P0052,274,South,42.9,16,Wholesale,Alice,Bank Transfer,No,8.97
+2/5/2024,P0093,17,East,17.12,1,Wholesale,Alice,PayPal,Yes,6.97
+2/5/2024,P0076,181,East,13.33,3,Wholesale,Charlie,Bank Transfer,No,9.42
+2/5/2024,P0065,451,North,49.24,19,Retail,Alice,PayPal,No,8.93
+2/5/2024,P0065,369,East,45.56,8,Online,Alice,Bank Transfer,Yes,14.57
+2/5/2024,P0010,204,East,1.45,18,Retail,David,Cash,No,19.32
+2/5/2024,P0018,278,South,38.54,6,Online,Alice,Cash,No,15.29
+2/5/2024,P0047,28,South,5.52,6,Retail,Alice,Bank Transfer,No,18.9
+2/5/2024,P0066,363,North,1.37,5,Wholesale,David,Credit Card,No,16.76
+2/5/2024,P0049,361,North,13.68,12,Wholesale,David,PayPal,No,15.92
+2/5/2024,P0072,58,South,13.47,9,Online,David,Bank Transfer,No,11.21
+2/6/2024,P0022,473,South,40.97,9,Retail,Bob,Bank Transfer,No,9.87
+2/6/2024,P0086,365,West,35.53,17,Wholesale,Bob,Credit Card,Yes,17.69
+2/6/2024,P0026,347,East,49.08,19,Online,Charlie,Cash,No,18.58
+2/6/2024,P0090,471,North,35.58,17,Retail,Alice,Bank Transfer,No,11.78
+2/6/2024,P0009,167,North,20.91,16,Online,Charlie,Cash,No,5.14
+2/6/2024,P0021,75,East,34.95,12,Retail,Bob,PayPal,No,16.89
+2/6/2024,P0095,470,East,49.97,3,Retail,Alice,Credit Card,No,9.28
+2/6/2024,P0063,356,North,35.51,14,Retail,Alice,Cash,No,5.15
+2/6/2024,P0006,68,South,38.08,17,Online,David,Bank Transfer,No,17.07
+2/6/2024,P0014,318,South,46.92,16,Online,Bob,Credit Card,No,12.76
+2/6/2024,P0033,317,East,5.68,12,Retail,Alice,Credit Card,No,15.28
+2/6/2024,P0071,346,North,35.24,2,Wholesale,David,Credit Card,No,18.72
+2/6/2024,P0024,168,East,42.54,8,Retail,Alice,Credit Card,No,13.12
+2/6/2024,P0073,280,South,47.72,12,Online,Bob,Credit Card,No,12.55
+2/6/2024,P0075,130,West,10.55,16,Retail,Charlie,PayPal,No,9.36
+2/6/2024,P0087,263,West,25.2,8,Online,Charlie,PayPal,No,9.58
+2/6/2024,P0051,413,South,34.03,16,Retail,Alice,Credit Card,No,16.95
+2/6/2024,P0002,270,East,12.37,10,Retail,David,Bank Transfer,Yes,11.74
+2/6/2024,P0015,144,West,30.02,15,Wholesale,David,Bank Transfer,No,7.45
+2/6/2024,P0035,283,South,12.88,4,Wholesale,David,PayPal,No,6.42
+2/6/2024,P0036,65,North,16.67,15,Online,Bob,Cash,No,12.09
+2/6/2024,P0092,340,East,22.08,4,Retail,Charlie,Credit Card,No,11.97
+2/6/2024,P0039,105,East,26.46,11,Online,Charlie,Bank Transfer,No,14.8
+2/6/2024,P0004,123,West,22.47,6,Retail,Alice,PayPal,No,12.07
+2/7/2024,P0064,484,East,24.66,4,Retail,Charlie,PayPal,No,7.15
+2/7/2024,P0074,483,West,14.93,9,Retail,David,Cash,No,12.62
+2/7/2024,P0006,366,West,7.95,9,Wholesale,Bob,Cash,No,18.6
+2/7/2024,P0057,438,South,2.37,3,Online,David,Bank Transfer,No,7.39
+2/7/2024,P0030,37,West,9.8,5,Retail,David,Cash,No,15.35
+2/7/2024,P0099,315,North,29.1,15,Retail,Charlie,Cash,No,13.91
+2/7/2024,P0074,11,East,39.31,9,Online,Bob,Credit Card,No,16.23
+2/7/2024,P0096,221,West,8.46,2,Online,Bob,PayPal,No,7.26
+2/7/2024,P0067,77,East,5.43,3,Retail,David,PayPal,No,19.12
+2/7/2024,P0090,137,West,37.46,12,Wholesale,Alice,Cash,No,14.31
+2/7/2024,P0015,342,South,15.26,16,Wholesale,Charlie,PayPal,No,17.71
+2/7/2024,P0017,33,North,47.57,5,Retail,Alice,PayPal,No,8.7
+2/7/2024,P0091,262,East,35.72,10,Wholesale,David,Bank Transfer,No,16.09
+2/7/2024,P0018,377,South,16.34,15,Online,Charlie,PayPal,Yes,16.72
+2/7/2024,P0019,239,East,14.48,14,Wholesale,Alice,Cash,No,10.96
+2/7/2024,P0076,497,South,26.18,14,Online,Alice,Bank Transfer,No,10.76
+2/7/2024,P0088,185,North,3.96,13,Online,Alice,PayPal,No,14.87
+2/7/2024,P0069,438,West,5.88,16,Online,Charlie,PayPal,No,6.4
+2/7/2024,P0024,384,South,8.79,8,Online,Alice,Bank Transfer,No,16.03
+2/7/2024,P0091,230,East,38.74,8,Wholesale,Bob,Bank Transfer,Yes,5.64
+2/7/2024,P0048,451,East,25.69,17,Online,David,PayPal,No,7.86
+2/7/2024,P0030,45,South,0.53,17,Retail,Charlie,Credit Card,No,14.96
+2/7/2024,P0015,11,North,33.68,3,Online,Bob,Credit Card,No,6.47
+2/7/2024,P0047,392,North,21.18,1,Retail,Alice,PayPal,No,19.58
+2/8/2024,P0044,370,West,25.54,17,Online,David,PayPal,No,18.03
+2/8/2024,P0098,283,West,10.71,16,Online,Alice,Bank Transfer,No,14.39
+2/8/2024,P0027,186,East,27.59,17,Wholesale,Bob,Bank Transfer,No,17.29
+2/8/2024,P0084,273,East,48.96,2,Online,Alice,PayPal,No,18.31
+2/8/2024,P0064,195,West,3.67,14,Online,Charlie,PayPal,No,8.89
+2/8/2024,P0041,24,West,14.2,7,Wholesale,Bob,PayPal,No,17.74
+2/8/2024,P0096,498,West,12.15,19,Wholesale,Charlie,PayPal,No,7.92
+2/8/2024,P0068,410,South,12.43,1,Retail,David,Credit Card,Yes,11.2
+2/8/2024,P0005,288,West,18.94,17,Wholesale,Charlie,Bank Transfer,No,13.37
+2/8/2024,P0053,203,South,40.91,10,Retail,Charlie,Cash,No,15.71
+2/8/2024,P0008,207,South,45.64,6,Online,Alice,PayPal,Yes,5.45
+2/8/2024,P0022,358,West,10.11,7,Retail,Alice,PayPal,No,9.36
+2/8/2024,P0007,420,North,27.15,6,Wholesale,Bob,PayPal,No,14.13
+2/8/2024,P0022,430,North,31.84,5,Online,David,Cash,No,10.36
+2/8/2024,P0046,314,East,26.09,2,Retail,Bob,Bank Transfer,No,16.63
+2/8/2024,P0030,73,West,21.7,18,Retail,David,Bank Transfer,No,14.77
+2/8/2024,P0016,299,East,9.6,17,Retail,David,PayPal,No,8.52
+2/8/2024,P0079,27,West,24.41,7,Online,Charlie,PayPal,Yes,7.19
+2/8/2024,P0005,73,East,20.06,19,Retail,Alice,Bank Transfer,No,14.44
+2/8/2024,P0067,371,South,39.78,7,Retail,David,Cash,No,11.76
+2/8/2024,P0023,339,West,38.18,7,Wholesale,Alice,PayPal,No,7.53
+2/8/2024,P0061,367,North,6.7,16,Retail,David,Cash,No,9.9
+2/8/2024,P0074,260,West,4.43,12,Online,Alice,Cash,No,9.55
+2/8/2024,P0005,437,East,45.41,15,Wholesale,Bob,Bank Transfer,No,6.62
+2/9/2024,P0023,26,East,26.78,15,Online,Alice,PayPal,No,13.2
+2/9/2024,P0079,452,East,42.89,11,Wholesale,Charlie,Credit Card,No,16.45
+2/9/2024,P0082,150,East,2.91,2,Wholesale,David,Bank Transfer,No,13.63
+2/9/2024,P0025,317,East,26.33,3,Retail,Charlie,Bank Transfer,No,17.39
+2/9/2024,P0008,453,East,26.97,19,Online,David,Credit Card,No,6.91
+2/9/2024,P0095,435,North,43.04,15,Retail,Charlie,PayPal,Yes,11.53
+2/9/2024,P0021,484,East,4.88,16,Wholesale,David,Cash,No,14.14
+2/9/2024,P0002,329,North,12.02,1,Retail,Alice,Cash,No,15.14
+2/9/2024,P0022,254,West,20.33,15,Wholesale,David,Cash,No,15.44
+2/9/2024,P0072,459,South,43.29,12,Wholesale,Charlie,PayPal,Yes,15.93
+2/9/2024,P0087,299,North,46.94,7,Online,Charlie,Bank Transfer,No,14.77
+2/9/2024,P0096,360,West,49.64,7,Online,David,Bank Transfer,No,6.41
+2/9/2024,P0072,96,South,47.96,11,Online,David,Bank Transfer,No,15.43
+2/9/2024,P0068,208,North,0.3,11,Online,Bob,Bank Transfer,No,15.87
+2/9/2024,P0064,367,North,2.39,17,Retail,Bob,Bank Transfer,No,19.9
+2/9/2024,P0094,457,West,7.38,3,Online,Alice,Credit Card,No,15.4
+2/9/2024,P0019,170,East,17.44,16,Online,Alice,Cash,No,15.3
+2/9/2024,P0087,149,North,41.5,5,Online,Alice,Cash,No,12.72
+2/9/2024,P0082,85,North,44.63,2,Wholesale,Alice,PayPal,No,18.02
+2/9/2024,P0053,28,West,9.34,7,Wholesale,Alice,Credit Card,No,19.95
+2/9/2024,P0093,402,East,30.98,10,Online,David,Bank Transfer,No,16.69
+2/9/2024,P0087,339,South,45.87,5,Wholesale,Bob,Bank Transfer,No,14.19
+2/9/2024,P0097,410,East,23.19,15,Wholesale,David,Bank Transfer,No,6.18
+2/9/2024,P0052,59,East,5.18,12,Retail,Bob,Credit Card,No,15.9
+2/10/2024,P0047,241,West,22.89,10,Wholesale,Bob,PayPal,Yes,15.63
+2/10/2024,P0082,304,East,18.79,17,Retail,Charlie,Credit Card,No,16.63
+2/10/2024,P0054,434,West,28.88,11,Wholesale,Charlie,PayPal,No,6.87
+2/10/2024,P0044,403,South,21.93,8,Online,Bob,Cash,No,14.81
+2/10/2024,P0097,21,North,0.87,15,Wholesale,David,PayPal,No,9.44
+2/10/2024,P0007,344,North,49.7,2,Wholesale,Bob,Cash,No,16.4
+2/10/2024,P0092,488,West,27.18,17,Retail,Alice,PayPal,No,8.61
+2/10/2024,P0001,24,West,23.68,6,Online,David,Cash,No,15.26
+2/10/2024,P0063,37,East,47.73,13,Retail,David,Cash,No,9.42
+2/10/2024,P0098,397,East,7.79,8,Online,Bob,Bank Transfer,No,5.13
+2/10/2024,P0039,301,North,9.46,11,Online,Alice,PayPal,No,14.5
+2/10/2024,P0019,384,North,40.4,15,Retail,Bob,Bank Transfer,No,6.7
+2/10/2024,P0031,330,North,13.04,13,Wholesale,Alice,Cash,No,14.89
+2/10/2024,P0077,259,West,39.96,18,Online,David,Bank Transfer,No,18.88
+2/10/2024,P0024,107,South,13.58,18,Wholesale,Bob,Credit Card,No,19.54
+2/10/2024,P0069,312,South,1.66,17,Retail,Alice,Bank Transfer,No,8.54
+2/10/2024,P0087,346,West,25.85,13,Retail,Charlie,PayPal,No,17.14
+2/10/2024,P0083,48,East,9.83,3,Retail,David,Bank Transfer,No,10.3
+2/10/2024,P0065,47,South,37.89,7,Retail,David,Credit Card,No,18.51
+2/10/2024,P0033,309,East,32.06,12,Online,Charlie,Bank Transfer,No,16.81
+2/10/2024,P0059,188,North,46.18,4,Retail,Alice,Cash,No,6.11
+2/10/2024,P0033,106,North,39.15,11,Wholesale,David,Cash,No,11.11
+2/10/2024,P0032,389,East,9.04,14,Wholesale,Alice,Cash,No,10.06
+2/10/2024,P0059,478,North,40.01,18,Online,Charlie,PayPal,No,16.78
+2/11/2024,P0092,291,West,32.09,7,Retail,Bob,Bank Transfer,No,11.15
+2/11/2024,P0041,247,East,33.45,5,Online,David,Cash,No,15.27
+2/11/2024,P0012,173,East,41.61,16,Online,David,Bank Transfer,No,14.04
+2/11/2024,P0073,462,East,28.69,11,Online,Alice,Credit Card,No,19.63
+2/11/2024,P0011,106,South,23.3,3,Retail,David,Credit Card,Yes,19.07
+2/11/2024,P0097,266,East,31.83,16,Wholesale,Bob,PayPal,Yes,11.42
+2/11/2024,P0019,318,East,14.9,11,Wholesale,Charlie,Bank Transfer,No,15.85
+2/11/2024,P0054,271,East,9.13,10,Online,David,Credit Card,No,17.44
+2/11/2024,P0057,302,South,30.83,2,Online,Charlie,PayPal,No,18.48
+2/11/2024,P0042,267,North,11.69,16,Wholesale,Alice,PayPal,No,6.02
+2/11/2024,P0098,258,South,4,17,Wholesale,Bob,Cash,No,9.53
+2/11/2024,P0071,254,West,0.03,10,Retail,David,Credit Card,No,9.8
+2/11/2024,P0031,260,East,30.42,18,Online,Charlie,Bank Transfer,Yes,11.52
+2/11/2024,P0052,132,West,18.11,12,Retail,Bob,Credit Card,No,7.54
+2/11/2024,P0002,334,South,37.62,8,Wholesale,Charlie,Credit Card,No,12.44
+2/11/2024,P0083,483,North,18.76,3,Wholesale,Alice,Bank Transfer,No,14.95
+2/11/2024,P0038,178,North,24.3,3,Wholesale,Bob,Bank Transfer,No,12.46
+2/11/2024,P0032,444,East,20.35,6,Wholesale,Bob,Cash,No,14.99
+2/11/2024,P0010,184,North,32.53,2,Retail,Alice,PayPal,No,6
+2/11/2024,P0008,278,South,17.81,3,Wholesale,Alice,Bank Transfer,No,18.14
+2/11/2024,P0090,213,South,48.19,17,Online,David,Bank Transfer,No,19.09
+2/11/2024,P0094,334,North,46.81,9,Wholesale,Alice,Credit Card,No,14.27
+2/11/2024,P0075,75,East,42.4,4,Online,Alice,Bank Transfer,No,18.22
+2/11/2024,P0020,324,East,46.02,2,Wholesale,Charlie,Bank Transfer,No,6.97
+2/12/2024,P0020,333,South,22.46,9,Retail,Bob,Credit Card,No,16.96
+2/12/2024,P0009,68,North,26.82,14,Online,Charlie,Credit Card,No,6.79
+2/12/2024,P0072,228,South,37.1,11,Retail,Alice,Credit Card,No,11.12
+2/12/2024,P0015,382,South,34.81,2,Wholesale,David,Cash,No,9.86
+2/12/2024,P0098,275,West,44.53,2,Retail,Charlie,PayPal,No,13.78
+2/12/2024,P0088,150,South,35.82,5,Wholesale,Charlie,Bank Transfer,No,9.52
+2/12/2024,P0097,245,East,49.89,7,Retail,Bob,Credit Card,No,14.56
+2/12/2024,P0063,395,North,17.43,4,Retail,Bob,Credit Card,No,10.51
+2/12/2024,P0091,227,North,41.65,14,Online,Bob,PayPal,Yes,17.91
+2/12/2024,P0021,24,West,34.88,2,Wholesale,David,Cash,Yes,14.51
+2/12/2024,P0005,311,West,34.57,12,Retail,David,Bank Transfer,No,8.23
+2/12/2024,P0035,450,East,16.29,10,Wholesale,Alice,Cash,No,10.04
+2/12/2024,P0085,147,West,39.28,1,Online,Alice,Cash,No,17.71
+2/12/2024,P0068,415,South,45.02,19,Retail,Bob,Cash,No,10.8
+2/12/2024,P0048,241,South,10.93,16,Wholesale,Charlie,Credit Card,No,13.04
+2/12/2024,P0080,98,East,31.27,15,Retail,Bob,PayPal,No,14.73
+2/12/2024,P0095,472,North,19.61,14,Retail,Alice,PayPal,No,10.22
+2/12/2024,P0090,86,East,49.48,9,Retail,Charlie,PayPal,No,9.41
+2/12/2024,P0062,145,West,23.94,15,Retail,Alice,Cash,No,12.13
+2/12/2024,P0035,414,North,11.42,7,Online,David,Bank Transfer,No,8.22
+2/12/2024,P0070,478,North,19.09,4,Online,Bob,Cash,No,9.26
+2/12/2024,P0097,415,North,32.69,18,Wholesale,Bob,PayPal,No,5.93
+2/12/2024,P0021,119,West,3.8,8,Wholesale,Charlie,Credit Card,Yes,9.56
+2/12/2024,P0080,362,South,30.18,12,Retail,Bob,Cash,No,9.81
+2/13/2024,P0039,310,South,46.56,15,Retail,Alice,Credit Card,No,19.43
+2/13/2024,P0034,100,West,42.52,15,Retail,Alice,PayPal,Yes,13.85
+2/13/2024,P0015,433,West,3.38,17,Online,David,Cash,No,16.81
+2/13/2024,P0006,379,East,49.67,2,Retail,Alice,Credit Card,No,5.68
+2/13/2024,P0066,415,East,34.94,12,Wholesale,Charlie,Cash,No,6.6
+2/13/2024,P0088,423,South,8.11,3,Retail,Alice,PayPal,No,17.22
+2/13/2024,P0056,199,West,0.62,7,Online,David,Bank Transfer,No,14.35
+2/13/2024,P0049,82,East,8.56,6,Retail,David,PayPal,Yes,7.86
+2/13/2024,P0092,182,West,41.91,14,Online,Bob,Bank Transfer,No,11.07
+2/13/2024,P0001,44,West,1.08,5,Online,Charlie,Bank Transfer,No,13.08
+2/13/2024,P0065,219,South,11.66,4,Online,Alice,PayPal,No,17.65
+2/13/2024,P0028,307,South,37.87,15,Online,David,Credit Card,No,5.91
+2/13/2024,P0100,142,West,29.31,7,Wholesale,Alice,Cash,No,13.95
+2/13/2024,P0020,292,North,39.14,3,Online,David,Cash,No,15.76
+2/13/2024,P0048,207,North,37.31,13,Wholesale,Bob,Cash,No,19.67
+2/13/2024,P0072,455,West,2.53,10,Wholesale,David,Bank Transfer,No,17.11
+2/13/2024,P0065,41,South,44.63,2,Retail,Bob,Bank Transfer,No,9.14
+2/13/2024,P0090,145,North,11.35,12,Retail,Charlie,PayPal,No,15.64
+2/13/2024,P0051,257,South,27.67,12,Online,Alice,Credit Card,No,16.45
+2/13/2024,P0043,368,North,32.21,19,Retail,Alice,PayPal,No,15.95
+2/13/2024,P0049,350,West,8.43,19,Online,Bob,PayPal,No,17.3
+2/13/2024,P0025,155,East,48.81,3,Retail,Charlie,Credit Card,No,18.56
+2/13/2024,P0074,343,East,24.41,6,Online,Bob,Bank Transfer,No,6.48
+2/13/2024,P0076,152,South,2.88,2,Retail,David,PayPal,No,6.57
+2/14/2024,P0041,243,South,46.86,13,Retail,Bob,PayPal,Yes,16.95
+2/14/2024,P0071,419,North,29.31,9,Wholesale,Charlie,Bank Transfer,No,8.79
+2/14/2024,P0064,446,West,34.96,13,Retail,David,Cash,No,5.88
+2/14/2024,P0061,53,North,26.26,14,Retail,Alice,Credit Card,No,11.02
+2/14/2024,P0012,41,West,41.74,19,Online,Alice,Credit Card,No,17.3
+2/14/2024,P0081,240,West,1.66,11,Wholesale,Alice,Cash,Yes,6.9
+2/14/2024,P0069,37,South,13.42,14,Online,Charlie,Credit Card,No,15.08
+2/14/2024,P0014,432,East,23.48,16,Retail,Charlie,Cash,No,5.05
+2/14/2024,P0034,169,East,3.83,10,Online,Charlie,PayPal,No,6.65
+2/14/2024,P0048,342,South,35.3,16,Wholesale,Charlie,Credit Card,No,10.26
+2/14/2024,P0061,216,East,19.68,2,Online,Charlie,Credit Card,No,6.25
+2/14/2024,P0081,27,South,13.63,16,Retail,David,PayPal,No,17.69
+2/14/2024,P0035,112,North,0.17,14,Online,Bob,Bank Transfer,No,17.96
+2/14/2024,P0065,79,West,35.99,18,Retail,Alice,Bank Transfer,No,16.33
+2/14/2024,P0059,128,East,41.69,6,Wholesale,Charlie,PayPal,No,8.64
+2/14/2024,P0036,148,East,19.75,7,Wholesale,Alice,Credit Card,No,12.85
+2/14/2024,P0079,169,North,28.21,13,Online,Charlie,Credit Card,No,7.76
+2/14/2024,P0019,241,North,11.38,2,Wholesale,Alice,Credit Card,No,9.22
+2/14/2024,P0042,157,East,31.11,15,Online,Bob,Cash,No,12.74
+2/14/2024,P0069,362,East,0.61,17,Retail,Alice,Bank Transfer,No,16.03
+2/14/2024,P0019,433,South,24.43,13,Online,Alice,Credit Card,No,6.42
+2/14/2024,P0039,401,South,32.21,7,Retail,Charlie,Bank Transfer,No,9.45
+2/14/2024,P0069,252,East,45.91,1,Wholesale,David,Bank Transfer,No,18.9
+2/14/2024,P0052,44,South,19.07,3,Retail,David,Credit Card,Yes,11.44
+2/15/2024,P0012,334,North,38.26,18,Retail,Alice,PayPal,No,19.08
+2/15/2024,P0083,391,West,29.88,7,Retail,David,PayPal,No,19.87
+2/15/2024,P0047,364,South,46.35,17,Retail,Bob,Bank Transfer,No,12.9
+2/15/2024,P0076,248,West,19.92,12,Retail,Bob,Cash,Yes,9.32
+2/15/2024,P0036,343,South,15.95,16,Online,David,Bank Transfer,No,16.86
+2/15/2024,P0063,158,East,44.36,10,Retail,David,Bank Transfer,No,7.39
+2/15/2024,P0076,120,South,2.46,16,Retail,Bob,PayPal,No,8.78
+2/15/2024,P0082,417,West,6.82,18,Retail,David,Credit Card,No,16.77
+2/15/2024,P0051,26,West,4.12,15,Retail,David,Credit Card,No,11.5
+2/15/2024,P0043,411,East,42.16,11,Retail,Charlie,Cash,No,8.02
+2/15/2024,P0034,235,West,0.53,18,Retail,Charlie,PayPal,No,14.77
+2/15/2024,P0097,149,East,43.08,6,Wholesale,David,PayPal,No,15.99
+2/15/2024,P0049,153,East,22.56,1,Online,David,Bank Transfer,No,6.88
+2/15/2024,P0018,269,West,0.2,7,Retail,Charlie,PayPal,No,9.15
+2/15/2024,P0061,226,North,20.08,12,Online,Charlie,Bank Transfer,Yes,8.32
+2/15/2024,P0057,171,West,9.34,4,Wholesale,David,Cash,No,10.7
+2/15/2024,P0093,101,West,31.22,10,Wholesale,Charlie,PayPal,No,16.45
+2/15/2024,P0005,183,South,33.97,2,Retail,Bob,PayPal,Yes,15.71
+2/15/2024,P0089,340,West,24.38,9,Online,Alice,Bank Transfer,Yes,14.94
+2/15/2024,P0024,214,South,2.03,10,Retail,Bob,PayPal,No,5.09
+2/15/2024,P0093,424,South,32.81,11,Wholesale,Charlie,Credit Card,Yes,7.13
+2/15/2024,P0064,162,West,42.1,14,Wholesale,Bob,Cash,No,8.35
+2/15/2024,P0059,112,East,36.02,3,Online,Alice,Credit Card,No,9.08
+2/15/2024,P0038,211,North,41.5,1,Retail,Charlie,Bank Transfer,No,7.2
+2/16/2024,P0033,289,West,10.03,7,Online,Bob,Bank Transfer,No,11.15
+2/16/2024,P0010,74,West,44.44,4,Online,Bob,Bank Transfer,No,6.13
+2/16/2024,P0037,126,East,16.11,7,Wholesale,Alice,Cash,No,16.25
+2/16/2024,P0097,162,South,0.67,16,Online,Charlie,PayPal,No,16.82
+2/16/2024,P0087,165,East,42.17,10,Wholesale,David,Credit Card,No,13.61
+2/16/2024,P0011,173,East,47.09,15,Retail,Charlie,PayPal,No,6.35
+2/16/2024,P0024,91,South,32.78,16,Online,Alice,Bank Transfer,No,18.35
+2/16/2024,P0088,15,West,11.57,6,Online,Alice,PayPal,No,19.48
+2/16/2024,P0071,331,East,12.59,4,Retail,Alice,Cash,No,8.04
+2/16/2024,P0021,76,East,23.33,4,Online,Alice,Bank Transfer,No,15.57
+2/16/2024,P0020,247,West,44.89,4,Retail,David,PayPal,No,17.63
+2/16/2024,P0010,81,West,7.48,17,Wholesale,Charlie,Credit Card,No,13.1
+2/16/2024,P0089,104,North,41.3,13,Wholesale,Charlie,Bank Transfer,No,9.85
+2/16/2024,P0047,313,East,14.57,2,Online,Bob,Bank Transfer,No,12.18
+2/16/2024,P0100,476,North,40.43,6,Wholesale,David,Cash,Yes,12.68
+2/16/2024,P0047,335,South,46.01,1,Wholesale,David,Cash,No,11.01
+2/16/2024,P0015,87,West,21.37,8,Retail,Bob,Credit Card,No,18.95
+2/16/2024,P0044,76,West,18.25,18,Wholesale,Bob,PayPal,No,16.16
+2/16/2024,P0062,185,North,40.11,4,Wholesale,Charlie,PayPal,No,8.62
+2/16/2024,P0006,330,East,26.47,5,Wholesale,Charlie,Bank Transfer,Yes,13.78
+2/16/2024,P0066,181,South,34.22,5,Retail,Charlie,Bank Transfer,No,15.33
+2/16/2024,P0076,487,East,31.14,15,Online,David,PayPal,No,7.1
+2/16/2024,P0004,264,East,7.64,10,Retail,David,PayPal,No,10.38
+2/16/2024,P0023,72,North,42.24,8,Online,Bob,PayPal,No,18.58
+2/17/2024,P0013,311,East,9.79,7,Online,Alice,Bank Transfer,No,13.51
+2/17/2024,P0081,412,North,46.61,12,Wholesale,Alice,Cash,No,8.25
+2/17/2024,P0031,255,West,12.53,11,Wholesale,Alice,Cash,No,6.84
+2/17/2024,P0016,201,West,36.69,13,Retail,Alice,Credit Card,No,12.77
+2/17/2024,P0041,476,West,14.23,15,Retail,Alice,PayPal,No,13.22
+2/17/2024,P0090,338,South,15.89,17,Retail,Charlie,PayPal,No,10.02
+2/17/2024,P0092,80,South,15.5,18,Wholesale,Bob,PayPal,No,14.46
+2/17/2024,P0001,375,East,37.39,8,Online,Alice,Credit Card,No,6.03
+2/17/2024,P0012,238,North,27.84,6,Retail,Alice,PayPal,No,7.18
+2/17/2024,P0056,443,East,44.15,11,Online,Alice,Cash,No,13.19
+2/17/2024,P0050,72,West,15.37,9,Wholesale,Charlie,PayPal,No,5.93
+2/17/2024,P0020,306,East,34.6,5,Wholesale,Alice,Credit Card,No,18.21
+2/17/2024,P0066,254,East,37.65,7,Wholesale,Bob,Bank Transfer,No,7.13
+2/17/2024,P0036,16,East,7.57,15,Wholesale,Charlie,Bank Transfer,No,15.11
+2/17/2024,P0079,402,West,20.03,4,Online,Charlie,Cash,No,10.87
+2/17/2024,P0038,269,North,24.14,19,Online,David,Cash,No,11
+2/17/2024,P0022,98,East,17.78,13,Retail,David,Cash,No,16.47
+2/17/2024,P0061,186,West,16.11,1,Online,Charlie,Bank Transfer,No,12.49
+2/17/2024,P0050,213,South,34.32,1,Online,Alice,PayPal,No,15.88
+2/17/2024,P0096,143,North,10.79,14,Online,Alice,Credit Card,No,12.58
+2/17/2024,P0059,91,West,35.47,9,Retail,Alice,Credit Card,No,13.89
+2/17/2024,P0020,497,East,46.75,12,Online,Alice,PayPal,No,16.41
+2/17/2024,P0036,30,West,28.26,18,Online,David,Bank Transfer,Yes,14.11
+2/17/2024,P0097,408,North,30.57,9,Online,Bob,Bank Transfer,No,14.23
+2/18/2024,P0015,137,East,3.45,8,Wholesale,Charlie,Credit Card,No,16.84
+2/18/2024,P0062,204,South,43.22,14,Online,Alice,Cash,No,19.24
+2/18/2024,P0003,203,South,14.27,9,Retail,David,Cash,No,10.65
+2/18/2024,P0093,193,South,30.75,2,Retail,Bob,Credit Card,No,13.66
+2/18/2024,P0091,256,West,48.96,1,Retail,Charlie,Credit Card,No,6.29
+2/18/2024,P0005,370,North,29.78,13,Retail,Charlie,PayPal,No,10.38
+2/18/2024,P0056,369,South,36.24,10,Wholesale,Charlie,PayPal,No,11.18
+2/18/2024,P0031,333,East,22.27,8,Retail,Alice,PayPal,No,17.53
+2/18/2024,P0086,169,East,3.02,7,Wholesale,Charlie,PayPal,No,12.7
+2/18/2024,P0035,203,East,39.88,12,Wholesale,Alice,PayPal,No,15.97
+2/18/2024,P0071,119,West,1.75,17,Wholesale,Bob,PayPal,No,5.29
+2/18/2024,P0070,422,North,35.03,12,Retail,David,Cash,No,11.97
+2/18/2024,P0026,75,North,1.15,16,Retail,David,Credit Card,No,18.52
+2/18/2024,P0001,427,South,43.12,10,Wholesale,David,Bank Transfer,No,8.36
+2/18/2024,P0083,263,North,7.88,12,Wholesale,Charlie,PayPal,No,5.47
+2/18/2024,P0007,292,East,25.71,11,Retail,David,Cash,No,11.5
+2/18/2024,P0036,69,East,29.86,14,Online,Bob,Credit Card,No,15.57
+2/18/2024,P0076,127,West,22.88,13,Online,Alice,Credit Card,No,11.82
+2/18/2024,P0084,432,East,17.04,2,Online,David,Credit Card,No,11.9
+2/18/2024,P0087,53,North,23.39,7,Retail,Alice,PayPal,No,15.05
+2/18/2024,P0025,495,East,15.57,1,Retail,Alice,PayPal,No,8.82
+2/18/2024,P0094,219,South,21.91,3,Wholesale,David,Bank Transfer,No,16.28
+2/18/2024,P0059,45,West,17.95,12,Retail,David,PayPal,No,7.3
+2/18/2024,P0061,28,West,28.31,5,Retail,David,Credit Card,No,10.94
+2/19/2024,P0029,100,North,11.9,12,Retail,Charlie,Credit Card,Yes,14.84
+2/19/2024,P0095,310,East,49.43,3,Wholesale,David,Cash,No,17.43
+2/19/2024,P0018,221,East,25.04,5,Wholesale,Charlie,Cash,No,16.87
+2/19/2024,P0041,414,North,9.71,1,Online,Bob,Bank Transfer,Yes,15.83
+2/19/2024,P0019,416,North,23.85,16,Online,Alice,Cash,No,10.39
+2/19/2024,P0004,231,South,43.32,9,Retail,Bob,Bank Transfer,Yes,6.83
+2/19/2024,P0065,226,North,1.09,10,Retail,David,Cash,No,8.25
+2/19/2024,P0041,232,East,33.98,10,Wholesale,Alice,Credit Card,No,17.97
+2/19/2024,P0015,420,South,27.4,13,Online,David,PayPal,No,17.86
+2/19/2024,P0054,107,West,8.48,16,Online,David,PayPal,No,19.27
+2/19/2024,P0064,465,East,40.87,4,Online,Alice,Bank Transfer,No,6.14
+2/19/2024,P0072,28,West,18.44,14,Retail,Bob,PayPal,No,13.05
+2/19/2024,P0015,306,West,14.69,17,Retail,David,PayPal,Yes,14.73
+2/19/2024,P0079,35,West,41.41,5,Retail,Alice,Cash,No,15.66
+2/19/2024,P0050,37,East,31.93,13,Wholesale,Bob,Credit Card,No,14.66
+2/19/2024,P0022,73,West,44.91,3,Online,Charlie,PayPal,No,16.55
+2/19/2024,P0018,333,East,31.49,5,Wholesale,Bob,Credit Card,No,10.39
+2/19/2024,P0080,232,West,37.04,16,Online,Bob,Cash,No,7.69
+2/19/2024,P0002,89,North,41.82,19,Retail,Alice,Cash,No,8.07
+2/19/2024,P0036,60,North,2.74,19,Wholesale,Bob,PayPal,No,5.18
+2/19/2024,P0020,467,East,38.8,17,Wholesale,Charlie,PayPal,No,10.25
+2/19/2024,P0016,111,West,30.69,18,Retail,Charlie,Cash,No,6.38
+2/19/2024,P0067,185,West,3.48,18,Online,David,Cash,No,9.82
+2/19/2024,P0030,19,West,25.43,8,Online,Charlie,Bank Transfer,No,14.42
+2/20/2024,P0055,246,North,4.12,18,Online,David,Bank Transfer,No,18.42
+2/20/2024,P0066,466,West,36.8,9,Online,Charlie,Credit Card,Yes,17.59
+2/20/2024,P0099,432,West,27.33,19,Retail,Bob,Cash,No,8.79
+2/20/2024,P0026,109,East,47.68,10,Retail,David,Credit Card,No,7.01
+2/20/2024,P0057,387,West,9.16,2,Retail,Charlie,Cash,No,7.9
+2/20/2024,P0069,237,North,30.3,17,Retail,Bob,Credit Card,No,19.56
+2/20/2024,P0002,412,West,10.58,13,Wholesale,Bob,Bank Transfer,No,13.24
+2/20/2024,P0056,73,North,30.7,11,Wholesale,David,Cash,No,7.74
+2/20/2024,P0084,389,North,36.13,16,Wholesale,Alice,Cash,No,17.61
+2/20/2024,P0062,28,South,36.12,7,Retail,Bob,Credit Card,No,10.93
+2/20/2024,P0034,341,North,40.75,3,Online,Bob,Credit Card,No,18.49
+2/20/2024,P0098,327,South,42.68,16,Wholesale,Alice,PayPal,No,8.91
+2/20/2024,P0056,150,South,3.86,19,Wholesale,David,PayPal,No,10.9
+2/20/2024,P0055,34,West,17.16,16,Retail,Charlie,Bank Transfer,No,12.57
+2/20/2024,P0020,237,South,34.36,2,Online,Charlie,Cash,No,18.39
+2/20/2024,P0050,98,East,24.93,14,Online,Bob,Cash,No,18.03
+2/20/2024,P0025,101,North,9.53,10,Online,Alice,Credit Card,No,13.62
+2/20/2024,P0084,51,East,27.64,19,Retail,Bob,Bank Transfer,Yes,8.33
+2/20/2024,P0025,382,South,20.37,11,Online,David,Cash,No,11.05
+2/20/2024,P0053,304,West,19.5,18,Wholesale,Bob,Bank Transfer,No,19.63
+2/20/2024,P0014,423,North,40.49,11,Wholesale,Charlie,PayPal,No,14.12
+2/20/2024,P0060,398,East,20.38,9,Wholesale,Alice,Credit Card,No,16.72
+2/20/2024,P0043,90,West,1.32,19,Retail,David,Cash,No,11.75
+2/20/2024,P0062,411,South,2.9,10,Online,Bob,Credit Card,No,12.98
+2/21/2024,P0076,116,West,42.81,3,Retail,Charlie,PayPal,No,11.43
+2/21/2024,P0069,120,East,48.03,3,Online,Bob,Bank Transfer,No,15.54
+2/21/2024,P0063,286,West,34.42,8,Retail,Charlie,Bank Transfer,No,17.77
+2/21/2024,P0002,223,East,18.22,6,Wholesale,Alice,PayPal,No,12.61
+2/21/2024,P0054,240,West,46.93,1,Retail,David,PayPal,No,12.21
+2/21/2024,P0016,315,North,33.14,6,Retail,Bob,Cash,No,10.1
+2/21/2024,P0055,130,West,42.22,2,Retail,David,Cash,No,7.66
+2/21/2024,P0094,143,North,38.29,19,Wholesale,Alice,Cash,No,19.09
+2/21/2024,P0043,315,East,18.96,7,Retail,Charlie,Cash,No,9.74
+2/21/2024,P0061,217,North,23.94,11,Retail,Alice,Cash,No,17.01
+2/21/2024,P0038,459,West,9.31,11,Wholesale,Alice,Bank Transfer,No,15.73
+2/21/2024,P0045,380,North,14.6,4,Online,David,Cash,No,16.86
+2/21/2024,P0051,266,East,38.91,16,Retail,Alice,PayPal,Yes,19.05
+2/21/2024,P0042,194,West,44.7,5,Wholesale,Bob,PayPal,No,14.35
+2/21/2024,P0024,295,North,36.22,7,Retail,Charlie,Cash,No,18.47
+2/21/2024,P0030,451,North,23.26,16,Wholesale,Alice,PayPal,No,7.52
+2/21/2024,P0037,372,South,4.33,15,Online,Bob,Credit Card,No,14.4
+2/21/2024,P0053,189,North,2.85,5,Online,Charlie,Bank Transfer,No,16.58
+2/21/2024,P0063,430,South,18.72,1,Retail,David,Bank Transfer,No,9.07
+2/21/2024,P0011,57,East,23.19,9,Wholesale,Charlie,Cash,No,16.11
+2/21/2024,P0078,96,South,30.46,5,Online,David,Credit Card,Yes,16.68
+2/21/2024,P0023,394,East,0.32,6,Online,Charlie,Cash,No,17.47
+2/21/2024,P0080,28,North,49.49,3,Wholesale,Alice,Cash,No,9.69
+2/21/2024,P0050,55,North,18.2,6,Retail,David,PayPal,No,15.22
+2/22/2024,P0085,460,South,42.4,8,Online,David,Bank Transfer,No,9.56
+2/22/2024,P0055,395,East,26.75,6,Online,David,Credit Card,No,16.09
+2/22/2024,P0055,65,North,6.52,16,Online,Alice,PayPal,No,11.94
+2/22/2024,P0004,238,South,39.88,16,Retail,Alice,Bank Transfer,No,13.96
+2/22/2024,P0097,154,South,35.49,3,Online,Charlie,Bank Transfer,No,11.24
+2/22/2024,P0054,101,South,26.37,17,Wholesale,Charlie,Cash,No,7.43
+2/22/2024,P0061,91,North,25.73,6,Retail,Alice,Credit Card,No,7.67
+2/22/2024,P0078,234,East,4.37,6,Online,Alice,Cash,No,6.16
+2/22/2024,P0083,88,North,32.79,19,Wholesale,David,PayPal,Yes,14.27
+2/22/2024,P0005,159,West,45.56,15,Wholesale,Charlie,Cash,No,17.73
+2/22/2024,P0100,370,West,4.66,19,Retail,Charlie,Cash,No,5.31
+2/22/2024,P0095,292,North,13.18,2,Wholesale,David,Bank Transfer,No,5.99
+2/22/2024,P0018,320,East,45.12,8,Retail,David,Bank Transfer,No,11.86
+2/22/2024,P0044,494,South,14.22,7,Retail,David,PayPal,No,16.07
+2/22/2024,P0031,169,West,32.7,8,Retail,Bob,Bank Transfer,No,7.37
+2/22/2024,P0094,325,West,26.74,13,Wholesale,Bob,Bank Transfer,No,9.07
+2/22/2024,P0021,374,North,29.82,15,Retail,Alice,Bank Transfer,Yes,8.48
+2/22/2024,P0047,476,West,20.79,12,Retail,Charlie,Cash,No,10.99
+2/22/2024,P0030,165,West,15,15,Wholesale,David,Credit Card,No,8.37
+2/22/2024,P0055,165,South,2.43,14,Retail,David,PayPal,No,10.29
+2/22/2024,P0068,385,South,37.21,7,Online,Charlie,Cash,Yes,15.93
+2/22/2024,P0069,211,East,37.3,17,Wholesale,Bob,PayPal,No,14.17
+2/22/2024,P0041,477,West,33.54,5,Wholesale,Charlie,Cash,Yes,6.22
+2/22/2024,P0045,418,East,32.18,10,Wholesale,Alice,PayPal,No,14.57
+2/23/2024,P0074,350,East,12.19,19,Online,Bob,Bank Transfer,No,12.16
+2/23/2024,P0091,471,South,1.12,18,Retail,Charlie,PayPal,No,19.02
+2/23/2024,P0080,351,South,40.44,10,Wholesale,Charlie,Credit Card,No,9.34
+2/23/2024,P0030,126,North,24.56,2,Wholesale,Alice,PayPal,No,15.89
+2/23/2024,P0077,163,South,15.34,6,Wholesale,Charlie,Credit Card,No,15.96
+2/23/2024,P0100,373,East,5.1,3,Online,Bob,PayPal,No,8.32
+2/23/2024,P0085,340,West,3.14,19,Online,David,Bank Transfer,No,18.55
+2/23/2024,P0045,128,East,17.44,5,Online,David,PayPal,No,12.37
+2/23/2024,P0045,208,East,40.24,7,Retail,David,Cash,No,15.18
+2/23/2024,P0079,410,East,45.94,7,Retail,Bob,Bank Transfer,No,7.19
+2/23/2024,P0084,475,South,44.84,10,Online,Charlie,Bank Transfer,No,8.87
+2/23/2024,P0084,272,East,46,1,Retail,Charlie,Cash,No,13.79
+2/23/2024,P0045,193,North,45.39,11,Online,Charlie,Bank Transfer,No,9.79
+2/23/2024,P0055,457,West,26.36,7,Retail,Charlie,Bank Transfer,No,12.5
+2/23/2024,P0059,157,South,10.97,6,Retail,David,Cash,No,10.61
+2/23/2024,P0005,175,East,39.9,6,Online,Bob,Bank Transfer,No,14.61
+2/23/2024,P0032,84,North,10.69,13,Wholesale,Alice,Bank Transfer,No,12.31
+2/23/2024,P0006,245,West,13.36,16,Wholesale,Bob,Bank Transfer,No,5.07
+2/23/2024,P0094,323,East,11.66,13,Retail,Charlie,Bank Transfer,No,14.75
+2/23/2024,P0026,281,West,25.75,2,Retail,Charlie,PayPal,No,11.33
+2/23/2024,P0037,188,South,16.09,19,Retail,Bob,Bank Transfer,Yes,10.13
+2/23/2024,P0013,292,South,7.71,19,Retail,Bob,Bank Transfer,No,6.41
+2/23/2024,P0093,60,North,22.66,19,Retail,David,Bank Transfer,No,8.31
+2/23/2024,P0069,84,South,43.7,18,Retail,Charlie,PayPal,No,8.36
+2/24/2024,P0025,153,North,28.53,6,Online,Bob,Credit Card,No,19.03
+2/24/2024,P0013,352,East,43.92,2,Wholesale,Charlie,Bank Transfer,No,11.49
+2/24/2024,P0088,197,West,9.79,19,Wholesale,Bob,Credit Card,No,5.63
+2/24/2024,P0095,132,South,8.35,6,Online,Charlie,Credit Card,No,7.08
+2/24/2024,P0020,341,West,28.78,15,Online,Bob,Cash,No,6.19
+2/24/2024,P0072,260,West,23.17,6,Wholesale,Charlie,Cash,No,13.83
+2/24/2024,P0060,305,East,33.01,3,Wholesale,Alice,Credit Card,No,7.8
+2/24/2024,P0073,332,East,39.73,11,Retail,David,PayPal,No,12.48
+2/24/2024,P0021,139,South,37.57,8,Wholesale,Alice,Bank Transfer,Yes,10.55
+2/24/2024,P0061,261,East,47.11,18,Retail,David,Bank Transfer,No,17.06
+2/24/2024,P0084,367,West,19.91,17,Retail,David,Bank Transfer,No,9.81
+2/24/2024,P0079,441,North,10.32,19,Wholesale,Bob,Cash,No,11.87
+2/24/2024,P0026,189,North,27.55,19,Retail,Alice,Cash,No,15.82
+2/24/2024,P0054,417,North,5.54,17,Retail,David,Bank Transfer,No,11.5
+2/24/2024,P0042,358,South,14.44,4,Online,Charlie,Credit Card,No,16.9
+2/24/2024,P0011,119,East,10.39,7,Wholesale,Bob,Cash,No,14.93
+2/24/2024,P0037,491,East,19.83,5,Online,Bob,Bank Transfer,No,11.16
+2/24/2024,P0011,477,East,5.56,16,Retail,Charlie,Credit Card,No,12.56
+2/24/2024,P0027,347,East,1.59,6,Retail,Charlie,Bank Transfer,No,19.51
+2/24/2024,P0094,87,West,32.84,14,Online,David,Cash,Yes,14.92
+2/24/2024,P0083,475,North,30.51,2,Online,Charlie,PayPal,No,18.57
+2/24/2024,P0034,11,West,35.42,18,Online,Bob,PayPal,No,7.68
+2/24/2024,P0038,330,South,33.02,18,Retail,Charlie,Cash,No,12.25
+2/24/2024,P0061,285,North,5.71,13,Wholesale,Alice,Credit Card,No,18.63
+2/25/2024,P0087,299,North,14.55,18,Retail,Bob,Bank Transfer,No,9.84
+2/25/2024,P0053,306,West,6.48,17,Online,Charlie,Cash,No,19.51
+2/25/2024,P0065,178,South,42.15,13,Wholesale,Bob,Credit Card,No,6.46
+2/25/2024,P0003,249,South,37.35,12,Online,David,Bank Transfer,No,18.54
+2/25/2024,P0067,468,North,10.08,3,Retail,Alice,Bank Transfer,No,11.68
+2/25/2024,P0028,484,East,17.07,7,Wholesale,David,Cash,No,6.11
+2/25/2024,P0014,32,South,48.33,1,Wholesale,Alice,Bank Transfer,No,18.19
+2/25/2024,P0052,303,West,29.71,5,Retail,Charlie,PayPal,No,8.78
+2/25/2024,P0030,181,South,40.06,1,Online,Bob,PayPal,No,5.33
+2/25/2024,P0058,332,North,13.23,4,Online,Charlie,Bank Transfer,No,7.04
+2/25/2024,P0054,327,East,10.5,1,Online,David,Cash,No,14.89
+2/25/2024,P0069,405,South,39.2,13,Retail,Bob,Bank Transfer,No,19.67
+2/25/2024,P0015,295,North,34.29,14,Online,Charlie,Cash,No,6.67
+2/25/2024,P0038,488,South,34.05,15,Wholesale,Charlie,Cash,No,11.93
+2/25/2024,P0078,352,East,27.63,17,Online,Bob,PayPal,No,7.71
+2/25/2024,P0014,202,West,28.18,12,Online,Bob,PayPal,No,16.18
+2/25/2024,P0057,178,North,36.78,7,Wholesale,David,Credit Card,No,6.77
+2/25/2024,P0059,413,North,13.5,19,Wholesale,Alice,Cash,No,8.6
+2/25/2024,P0008,127,East,17.64,3,Online,Alice,Bank Transfer,No,7.95
+2/25/2024,P0072,15,North,43.58,18,Wholesale,Bob,Cash,No,13.29
+2/25/2024,P0019,340,East,15.44,4,Retail,Alice,PayPal,No,18.1
+2/25/2024,P0032,492,North,27.32,3,Wholesale,David,Cash,No,12.67
+2/25/2024,P0095,141,East,35.13,12,Retail,Alice,Credit Card,No,5.87
+2/25/2024,P0029,102,South,50,12,Wholesale,Bob,Bank Transfer,No,13.45
+2/26/2024,P0041,260,South,21.76,17,Retail,David,Cash,No,16.96
+2/26/2024,P0075,19,South,21.4,6,Retail,Bob,Bank Transfer,Yes,6.98
+2/26/2024,P0045,60,North,42.13,15,Online,David,Bank Transfer,No,6.09
+2/26/2024,P0013,358,East,40.28,2,Wholesale,David,PayPal,No,7.82
+2/26/2024,P0027,303,East,36.55,8,Wholesale,Bob,Cash,No,16.19
+2/26/2024,P0019,138,West,23.16,14,Wholesale,Charlie,Bank Transfer,No,13.88
+2/26/2024,P0026,497,South,16.2,5,Retail,Bob,PayPal,No,13.11
+2/26/2024,P0053,401,West,30.44,3,Online,David,Credit Card,Yes,8.74
+2/26/2024,P0051,258,South,43.81,10,Wholesale,Bob,Credit Card,No,9.98
+2/26/2024,P0037,111,West,44.19,7,Online,Bob,Cash,No,19.49
+2/26/2024,P0009,346,South,5.42,11,Online,David,Bank Transfer,No,8.61
+2/26/2024,P0092,92,East,21.42,15,Retail,Alice,Cash,No,18.52
+2/26/2024,P0096,200,South,23.24,2,Wholesale,David,Bank Transfer,No,13.71
+2/26/2024,P0052,426,North,48.88,5,Online,Bob,PayPal,No,6.85
+2/26/2024,P0054,152,South,33.9,11,Wholesale,David,Credit Card,No,12.01
+2/26/2024,P0003,246,South,20.36,8,Wholesale,David,Credit Card,No,19.23
+2/26/2024,P0096,296,East,1.3,13,Wholesale,Alice,Credit Card,No,11.28
+2/26/2024,P0069,286,North,28.27,11,Online,Charlie,Credit Card,No,17.95
+2/26/2024,P0008,396,East,4.8,17,Retail,Bob,Cash,No,8.85
+2/26/2024,P0014,391,West,41.72,15,Retail,Bob,Bank Transfer,No,13.56
+2/26/2024,P0003,459,West,37.63,1,Online,Alice,Cash,No,17.66
+2/26/2024,P0024,300,North,23.03,19,Wholesale,David,PayPal,No,18.81
+2/26/2024,P0013,178,West,21.46,16,Wholesale,Charlie,Credit Card,No,12.29
+2/26/2024,P0043,452,North,44.87,19,Retail,Bob,Bank Transfer,No,14.6
+2/27/2024,P0029,153,South,14.42,13,Online,Charlie,Cash,Yes,5.04
+2/27/2024,P0072,193,West,12.45,4,Online,Charlie,Bank Transfer,Yes,8.8
+2/27/2024,P0051,54,South,46.96,11,Retail,David,Cash,No,9.18
+2/27/2024,P0042,252,East,40.46,18,Online,David,Bank Transfer,Yes,6.4
+2/27/2024,P0031,324,West,41.03,18,Online,David,Bank Transfer,No,9.2
+2/27/2024,P0063,443,East,9.76,10,Retail,Bob,Credit Card,No,9.82
+2/27/2024,P0026,478,East,7.16,17,Retail,Charlie,Cash,No,19.53
+2/27/2024,P0018,277,North,1.3,13,Online,Charlie,PayPal,No,15.03
+2/27/2024,P0082,485,East,11.85,14,Online,Bob,Bank Transfer,No,11.39
+2/27/2024,P0057,262,North,38.71,7,Retail,Alice,PayPal,No,19.82
+2/27/2024,P0007,405,North,12,10,Retail,David,Credit Card,No,7.3
+2/27/2024,P0048,298,North,36.46,3,Wholesale,Bob,PayPal,No,12.14
+2/27/2024,P0080,221,North,12.6,2,Online,David,Bank Transfer,No,14.71
+2/27/2024,P0060,497,North,19.76,19,Online,Charlie,Bank Transfer,No,5.83
+2/27/2024,P0033,186,South,49.16,7,Retail,Bob,Bank Transfer,Yes,15.75
+2/27/2024,P0003,30,North,12.24,5,Retail,Alice,Cash,No,6.5
+2/27/2024,P0004,325,West,18.82,3,Wholesale,David,PayPal,No,7.1
+2/27/2024,P0100,61,North,15.05,2,Wholesale,Charlie,Cash,No,7.4
+2/27/2024,P0004,447,South,5.48,6,Retail,Charlie,Bank Transfer,No,18.93
+2/27/2024,P0042,432,West,24.49,14,Online,Alice,Bank Transfer,No,15.25
+2/27/2024,P0009,242,West,18.93,7,Wholesale,Alice,Credit Card,No,14.83
+2/27/2024,P0051,442,South,34.74,2,Retail,David,Credit Card,No,13.33
+2/27/2024,P0017,132,West,40.88,11,Retail,Charlie,Bank Transfer,No,9.39
+2/27/2024,P0017,371,South,27.21,3,Retail,Alice,Cash,No,14.31
+2/28/2024,P0097,457,East,1.61,9,Online,Bob,Cash,No,11.15
+2/28/2024,P0020,109,East,30.95,8,Retail,Alice,Bank Transfer,No,7.18
+2/28/2024,P0014,223,North,2.77,11,Retail,Bob,PayPal,No,15.34
+2/28/2024,P0022,419,North,30.82,18,Online,Charlie,Cash,No,6.94
+2/28/2024,P0052,336,North,34.25,1,Retail,David,Bank Transfer,No,7.86
+2/28/2024,P0027,144,North,9.89,15,Retail,Charlie,Credit Card,No,17.27
+2/28/2024,P0043,465,South,40.97,4,Wholesale,Charlie,Bank Transfer,No,14.9
+2/28/2024,P0003,327,East,45.55,4,Retail,Charlie,Cash,No,14.46
+2/28/2024,P0088,227,South,40.65,10,Online,Charlie,Bank Transfer,Yes,11.27
+2/28/2024,P0094,97,West,15.26,11,Wholesale,David,PayPal,No,10.94
+2/28/2024,P0008,289,West,29.33,18,Retail,Alice,PayPal,No,15.35
+2/28/2024,P0086,49,West,45.74,15,Online,David,Cash,No,16.1
+2/28/2024,P0089,249,West,16.03,3,Retail,David,Bank Transfer,No,12.65
+2/28/2024,P0010,341,West,41,7,Wholesale,David,PayPal,No,19.54
+2/28/2024,P0029,440,East,0.47,7,Online,David,PayPal,No,19.34
+2/28/2024,P0040,145,South,0.18,17,Wholesale,Alice,Credit Card,No,11.19
+2/28/2024,P0065,191,West,37.99,16,Online,Charlie,Cash,No,17.31
+2/28/2024,P0021,274,North,38.07,16,Online,Alice,Credit Card,No,13.15
+2/28/2024,P0024,268,East,39.45,8,Retail,Alice,Credit Card,No,12.68
+2/28/2024,P0073,191,North,46.5,3,Online,Charlie,PayPal,Yes,5.82
+2/28/2024,P0060,30,East,5.9,15,Online,Alice,Bank Transfer,No,13.61
+2/28/2024,P0026,360,East,11.6,1,Retail,David,Credit Card,No,18.51
+2/28/2024,P0009,441,North,45.19,10,Online,David,Cash,No,16.7
+2/28/2024,P0020,440,North,8.86,2,Online,Charlie,Cash,No,16.79
+2/29/2024,P0056,481,West,34.11,7,Online,Charlie,Bank Transfer,Yes,7.4
+2/29/2024,P0099,205,North,26.52,14,Online,Charlie,Cash,No,10.38
+2/29/2024,P0036,221,South,4.16,16,Retail,David,Credit Card,No,8.5
+2/29/2024,P0036,456,East,14.26,15,Retail,Charlie,Bank Transfer,Yes,9.74
+2/29/2024,P0073,25,East,26.02,7,Wholesale,Alice,Cash,No,13.69
+2/29/2024,P0022,211,West,42.62,13,Online,Alice,Cash,No,10.47
+2/29/2024,P0001,372,East,35.38,10,Retail,Bob,Credit Card,No,13.41
+2/29/2024,P0069,227,North,31.09,9,Online,Bob,Credit Card,No,11.58
+2/29/2024,P0073,102,East,24.8,9,Retail,Charlie,Credit Card,No,9.3
+2/29/2024,P0037,142,East,14.93,6,Wholesale,Bob,Credit Card,No,6.43
+2/29/2024,P0083,148,North,5.96,12,Online,David,Bank Transfer,No,18.38
+2/29/2024,P0072,166,North,20.45,14,Wholesale,David,Bank Transfer,No,5.17
+2/29/2024,P0096,344,East,1.43,7,Wholesale,Alice,Bank Transfer,No,5.02
+2/29/2024,P0013,79,South,10.55,8,Wholesale,Alice,PayPal,Yes,17.4
+2/29/2024,P0084,313,North,21.62,8,Retail,Bob,Credit Card,No,19.95
+2/29/2024,P0100,24,South,20.93,8,Online,Bob,Credit Card,No,15.91
+2/29/2024,P0043,244,South,2.21,2,Retail,David,Bank Transfer,No,5.23
+2/29/2024,P0037,221,West,29.45,14,Retail,Alice,Cash,No,8.4
+2/29/2024,P0094,299,South,27.48,10,Online,Bob,Cash,No,19.58
+2/29/2024,P0074,69,West,3.91,18,Online,David,Credit Card,No,17.13
+2/29/2024,P0095,261,South,47.16,18,Online,Alice,Credit Card,No,13.5
+2/29/2024,P0025,455,West,4.97,18,Online,David,Bank Transfer,Yes,8.55
+2/29/2024,P0093,11,North,42.74,16,Retail,David,Credit Card,No,5.22
+2/29/2024,P0088,245,East,0.02,5,Online,Alice,Cash,No,5.31
+3/1/2024,P0021,345,East,44.11,5,Online,David,Cash,No,14.18
+3/1/2024,P0041,28,West,0.99,10,Online,Bob,Credit Card,No,5.33
+3/1/2024,P0073,491,North,37.89,17,Wholesale,David,Bank Transfer,No,19.9
+3/1/2024,P0042,58,West,18.08,13,Online,Bob,Bank Transfer,No,7.75
+3/1/2024,P0042,87,West,36.91,17,Online,Charlie,Cash,No,15.66
+3/1/2024,P0002,481,North,20.09,18,Retail,Charlie,Bank Transfer,No,7.33
+3/1/2024,P0068,37,South,3.55,13,Wholesale,Charlie,Cash,No,13.1
+3/1/2024,P0008,57,South,38.38,17,Retail,David,Credit Card,No,6.21
+3/1/2024,P0096,105,North,3.56,15,Wholesale,Charlie,Cash,No,16.5
+3/1/2024,P0061,174,West,46.11,12,Retail,Charlie,Credit Card,No,13.77
+3/1/2024,P0014,467,East,2.55,10,Retail,David,Bank Transfer,No,6.29
+3/1/2024,P0077,442,West,23.97,13,Online,Alice,PayPal,No,17.73
+3/1/2024,P0021,374,South,36.15,11,Online,David,PayPal,No,13.21
+3/1/2024,P0024,185,North,19.66,3,Wholesale,Bob,PayPal,No,18.82
+3/1/2024,P0050,82,North,10.86,10,Wholesale,David,Cash,No,18.75
+3/1/2024,P0082,481,North,37.95,11,Wholesale,Alice,PayPal,No,18.81
+3/1/2024,P0045,365,South,39.21,6,Online,Charlie,Cash,No,6.17
+3/1/2024,P0064,38,West,46.13,1,Retail,David,Bank Transfer,No,6.81
+3/1/2024,P0064,453,North,18.81,6,Wholesale,Charlie,Credit Card,Yes,19.82
+3/1/2024,P0026,166,East,25.31,5,Online,Bob,PayPal,No,12.31
+3/1/2024,P0032,323,North,18.16,7,Online,Alice,Cash,No,8.57
+3/1/2024,P0057,313,West,12.85,12,Retail,Charlie,Bank Transfer,Yes,16.54
+3/1/2024,P0053,288,South,37.55,12,Retail,Charlie,Bank Transfer,No,8.96
+3/1/2024,P0033,292,East,16.98,7,Online,Charlie,PayPal,No,15.91
+3/2/2024,P0052,488,East,21.41,2,Retail,Charlie,Bank Transfer,No,17.56
+3/2/2024,P0095,16,North,20.18,1,Retail,David,Bank Transfer,No,16.76
+3/2/2024,P0018,314,West,35.63,18,Online,Alice,Bank Transfer,Yes,9.11
+3/2/2024,P0035,191,North,45.89,12,Wholesale,Alice,Cash,No,11.02
+3/2/2024,P0012,118,East,33.34,7,Wholesale,Charlie,Bank Transfer,No,11.2
+3/2/2024,P0051,333,North,23.58,19,Online,Alice,Bank Transfer,No,12.37
+3/2/2024,P0089,215,West,38.96,3,Wholesale,Charlie,Bank Transfer,No,7.51
+3/2/2024,P0095,243,South,32.05,10,Online,Bob,Bank Transfer,No,11.79
+3/2/2024,P0010,435,East,3.03,11,Online,Bob,Bank Transfer,Yes,12.66
+3/2/2024,P0052,467,West,4.78,5,Retail,Bob,Cash,Yes,12.98
+3/2/2024,P0034,196,North,1.9,2,Wholesale,Alice,Bank Transfer,No,17.3
+3/2/2024,P0067,437,East,22.84,8,Online,Charlie,Bank Transfer,No,12.76
+3/2/2024,P0039,491,North,41.29,14,Wholesale,David,Credit Card,No,8.46
+3/2/2024,P0008,419,North,15.65,8,Wholesale,David,Bank Transfer,Yes,14.95
+3/2/2024,P0096,416,South,19.21,6,Wholesale,Bob,Bank Transfer,No,16.96
+3/2/2024,P0029,338,North,45.47,1,Online,Bob,Cash,No,9.79
+3/2/2024,P0022,366,North,41.85,1,Retail,Alice,Bank Transfer,No,14.68
+3/2/2024,P0084,17,West,33.25,8,Wholesale,David,Cash,No,7.2
+3/2/2024,P0070,62,North,13.34,11,Online,Alice,PayPal,No,10.13
+3/2/2024,P0061,407,South,5.85,18,Wholesale,Bob,Bank Transfer,No,18.64
+3/2/2024,P0043,208,North,0.8,10,Retail,Charlie,Credit Card,No,18.67
+3/2/2024,P0049,400,North,5.35,12,Wholesale,Charlie,Cash,No,13.63
+3/2/2024,P0029,146,North,14.63,16,Online,Charlie,PayPal,No,15.54
+3/2/2024,P0081,268,East,27.59,5,Wholesale,Bob,Credit Card,No,17.81
+3/3/2024,P0031,343,South,3.2,16,Wholesale,Alice,Cash,No,19.38
+3/3/2024,P0053,410,East,6.81,12,Wholesale,Charlie,PayPal,No,12.35
+3/3/2024,P0034,181,South,9.05,6,Retail,David,Credit Card,No,13.42
+3/3/2024,P0038,95,South,31.6,5,Wholesale,David,Bank Transfer,No,11.23
+3/3/2024,P0057,55,West,30.79,1,Online,Bob,Credit Card,No,6.08
+3/3/2024,P0004,355,East,27.54,19,Wholesale,David,Credit Card,No,11.34
+3/3/2024,P0002,195,South,12.53,10,Wholesale,David,Credit Card,No,16.86
+3/3/2024,P0012,165,South,18.56,14,Wholesale,Bob,Cash,No,17.07
+3/3/2024,P0035,407,West,4.83,3,Retail,Alice,Bank Transfer,No,18.39
+3/3/2024,P0070,18,East,11.32,6,Online,Charlie,Bank Transfer,No,5.77
+3/3/2024,P0072,124,North,44.89,5,Wholesale,Bob,Cash,Yes,12.91
+3/3/2024,P0021,163,West,48.98,17,Online,David,Credit Card,No,6.61
+3/3/2024,P0061,139,South,32.38,18,Online,Charlie,Bank Transfer,No,8.01
+3/3/2024,P0035,340,East,45.84,12,Retail,Charlie,Credit Card,No,18.5
+3/3/2024,P0048,90,South,32.14,5,Online,Charlie,Bank Transfer,Yes,12.45
+3/3/2024,P0015,393,West,1.66,9,Wholesale,Bob,Cash,No,16.38
+3/3/2024,P0071,299,West,49.84,12,Retail,Charlie,PayPal,Yes,5.97
+3/3/2024,P0015,156,East,4.95,9,Retail,Alice,Credit Card,No,11.25
+3/3/2024,P0006,304,West,34.13,3,Online,David,Bank Transfer,No,15.11
+3/3/2024,P0081,475,West,12.64,1,Retail,Bob,Bank Transfer,No,7
+3/3/2024,P0068,278,North,19.6,15,Online,Bob,Bank Transfer,No,9.89
+3/3/2024,P0022,142,South,32.3,10,Online,Charlie,Cash,No,5.97
+3/3/2024,P0032,59,North,21.82,14,Retail,David,Cash,No,14.77
+3/3/2024,P0022,32,North,12.53,7,Wholesale,Charlie,PayPal,No,19.56
+3/4/2024,P0027,387,East,16.72,4,Online,Charlie,Cash,No,17.41
+3/4/2024,P0015,385,West,17.08,5,Retail,Bob,Credit Card,No,19.62
+3/4/2024,P0044,97,South,47.97,16,Retail,Alice,Cash,No,17.68
+3/4/2024,P0086,422,South,39.93,3,Online,David,Bank Transfer,No,17.83
+3/4/2024,P0092,121,South,22.93,17,Online,David,Credit Card,Yes,13.66
+3/4/2024,P0009,120,West,9.99,13,Online,David,Cash,No,12.77
+3/4/2024,P0034,81,South,40.55,6,Online,David,Credit Card,No,11.09
+3/4/2024,P0100,163,South,7.86,5,Wholesale,Alice,Credit Card,No,17.27
+3/4/2024,P0073,472,West,10.52,16,Wholesale,Bob,Cash,No,7.73
+3/4/2024,P0015,66,East,18.3,11,Wholesale,Alice,Credit Card,No,5.84
+3/4/2024,P0062,266,South,44.02,17,Wholesale,Charlie,Bank Transfer,No,19.22
+3/4/2024,P0045,165,West,6.59,5,Retail,Bob,Bank Transfer,No,5.06
+3/4/2024,P0084,122,North,6.11,6,Online,Alice,Cash,No,19.65
+3/4/2024,P0072,327,West,24.7,10,Retail,David,Cash,No,15.93
+3/4/2024,P0058,56,North,13.82,1,Retail,David,Bank Transfer,No,9.93
+3/4/2024,P0092,247,West,28.44,10,Wholesale,Bob,Cash,No,15.47
+3/4/2024,P0019,343,South,22.58,17,Retail,Alice,Bank Transfer,No,17.27
+3/4/2024,P0016,115,East,21.75,3,Wholesale,Bob,Credit Card,No,8.68
+3/4/2024,P0075,491,East,5.6,2,Online,David,Cash,No,16.56
+3/4/2024,P0008,196,South,7.05,17,Wholesale,Alice,PayPal,Yes,17.07
+3/4/2024,P0033,168,North,41.05,4,Online,David,Bank Transfer,No,8.74
+3/4/2024,P0074,207,West,44.29,2,Wholesale,Bob,Bank Transfer,No,5.63
+3/4/2024,P0018,391,South,11.73,5,Retail,Bob,Credit Card,No,8.06
+3/4/2024,P0035,186,West,5.67,10,Retail,Bob,PayPal,No,8.01
+3/5/2024,P0043,270,South,2.67,1,Wholesale,Bob,PayPal,Yes,5.98
+3/5/2024,P0050,296,South,30.41,1,Online,Bob,PayPal,Yes,15.89
+3/5/2024,P0003,302,West,35.77,4,Online,Charlie,Bank Transfer,No,10.7
+3/5/2024,P0091,344,East,18.64,7,Wholesale,Bob,Bank Transfer,No,18.27
+3/5/2024,P0059,152,East,33.98,14,Retail,Bob,PayPal,No,8.78
+3/5/2024,P0028,317,North,35.65,14,Online,David,Cash,No,11.8
+3/5/2024,P0046,206,West,46.77,18,Wholesale,Bob,PayPal,Yes,14.59
+3/5/2024,P0064,485,North,3.24,2,Online,Alice,Credit Card,No,18.16
+3/5/2024,P0070,234,South,9.61,1,Retail,Bob,PayPal,No,12.87
+3/5/2024,P0047,404,North,3.43,16,Online,Charlie,PayPal,No,10.6
+3/5/2024,P0014,52,South,43.4,18,Wholesale,Bob,PayPal,No,18.01
+3/5/2024,P0007,463,West,39.63,16,Online,David,Cash,Yes,9.65
+3/5/2024,P0074,160,West,28.73,6,Online,Alice,PayPal,No,6.19
+3/5/2024,P0079,305,West,4.18,10,Retail,Alice,PayPal,No,11.68
+3/5/2024,P0031,72,West,13.67,2,Retail,Bob,Bank Transfer,No,16.78
+3/5/2024,P0093,139,North,14.89,7,Retail,Bob,PayPal,No,5.46
+3/5/2024,P0081,264,South,28.04,17,Retail,Bob,Credit Card,Yes,13.79
+3/5/2024,P0051,472,East,12.9,3,Wholesale,Bob,Bank Transfer,Yes,13.92
+3/5/2024,P0029,352,West,3.65,12,Online,David,Cash,Yes,18.93
+3/5/2024,P0015,223,West,36.54,2,Online,David,Bank Transfer,No,9.3
+3/5/2024,P0090,82,South,14.95,7,Online,Alice,Cash,No,9.18
+3/5/2024,P0076,440,East,22.62,17,Online,Bob,Cash,No,11.61
+3/5/2024,P0025,113,West,6.38,19,Wholesale,David,Credit Card,No,10.35
+3/5/2024,P0061,167,East,40.13,12,Retail,David,PayPal,No,16.05
+3/6/2024,P0041,281,West,28.28,9,Online,Alice,Credit Card,No,14.63
+3/6/2024,P0069,324,North,45.08,14,Online,Alice,Bank Transfer,No,16.38
+3/6/2024,P0004,247,North,24.77,2,Retail,Charlie,Cash,No,17.3
+3/6/2024,P0057,312,East,47.07,4,Retail,David,Bank Transfer,No,18.84
+3/6/2024,P0031,381,South,44.59,19,Online,Alice,Cash,No,11.46
+3/6/2024,P0003,167,South,28.82,16,Retail,David,Bank Transfer,Yes,19.77
+3/6/2024,P0067,118,North,46.69,17,Online,David,Cash,No,8.23
+3/6/2024,P0090,18,South,16.15,2,Online,Bob,Credit Card,No,15.72
+3/6/2024,P0050,330,South,18.28,17,Online,Bob,Cash,Yes,13.01
+3/6/2024,P0017,68,South,2.27,19,Online,Bob,PayPal,No,17.25
+3/6/2024,P0060,367,East,29.46,8,Online,Bob,Credit Card,No,12.15
+3/6/2024,P0074,201,East,36.1,6,Online,David,PayPal,No,16.76
+3/6/2024,P0066,145,South,38.68,12,Retail,Charlie,Bank Transfer,No,18.95
+3/6/2024,P0088,260,North,7.49,18,Wholesale,Charlie,Bank Transfer,No,15.98
+3/6/2024,P0075,388,South,22.21,2,Wholesale,Charlie,Cash,No,16.64
+3/6/2024,P0024,445,West,8.84,19,Online,David,Cash,No,6.01
+3/6/2024,P0099,155,North,33.11,10,Retail,Charlie,Bank Transfer,No,8.07
+3/6/2024,P0087,356,East,7.9,3,Online,David,Credit Card,No,19.61
+3/6/2024,P0032,475,West,45.21,12,Retail,Alice,PayPal,No,15.4
+3/6/2024,P0087,361,South,11.53,16,Online,Charlie,Bank Transfer,No,13.42
+3/6/2024,P0098,67,South,14.57,12,Online,David,Credit Card,No,10.5
+3/6/2024,P0019,186,North,42.55,8,Wholesale,Alice,PayPal,No,5.67
+3/6/2024,P0066,297,North,22.92,5,Retail,Bob,Cash,No,10.54
+3/6/2024,P0060,254,South,1.2,11,Retail,Alice,Credit Card,No,12.48
+3/7/2024,P0066,57,South,24.73,10,Wholesale,Alice,Credit Card,No,8.17
+3/7/2024,P0015,310,North,4.23,3,Wholesale,Charlie,Bank Transfer,No,7.6
+3/7/2024,P0085,447,West,49.27,9,Wholesale,Bob,PayPal,No,12.63
+3/7/2024,P0035,365,East,29.41,12,Wholesale,Bob,Bank Transfer,No,13.79
+3/7/2024,P0069,109,North,12.83,6,Retail,Charlie,Cash,No,8.6
+3/7/2024,P0027,222,West,28.19,19,Retail,Alice,Cash,Yes,13.81
+3/7/2024,P0088,311,South,3.84,16,Wholesale,David,PayPal,Yes,18.51
+3/7/2024,P0007,489,East,39.99,14,Online,Charlie,PayPal,No,12.1
+3/7/2024,P0006,424,West,46.27,4,Online,Alice,PayPal,No,17.86
+3/7/2024,P0033,174,East,43.72,18,Online,David,Bank Transfer,No,18.91
+3/7/2024,P0058,409,East,17.09,10,Online,Charlie,PayPal,No,6.39
+3/7/2024,P0049,439,East,16.29,18,Retail,Charlie,PayPal,No,6.44
+3/7/2024,P0017,135,West,1.75,12,Retail,Bob,Bank Transfer,No,12.14
+3/7/2024,P0042,311,West,32.57,19,Retail,Bob,Cash,No,13.82
+3/7/2024,P0094,471,South,26.75,8,Online,Bob,Cash,No,11.39
+3/7/2024,P0072,130,East,22.97,1,Wholesale,David,Credit Card,No,9.9
+3/7/2024,P0040,97,North,45.38,14,Online,Charlie,Cash,No,14.61
+3/7/2024,P0046,226,North,8.39,6,Retail,Bob,PayPal,No,5.03
+3/7/2024,P0071,70,North,0.48,14,Online,Bob,Cash,No,19.52
+3/7/2024,P0070,311,West,3.67,2,Wholesale,Charlie,Bank Transfer,No,8.48
+3/7/2024,P0068,188,South,11.17,9,Wholesale,David,Cash,Yes,18.76
+3/7/2024,P0001,199,West,1.66,12,Online,Bob,Cash,No,6.64
+3/7/2024,P0079,172,East,25.14,5,Retail,Alice,Credit Card,Yes,8.57
+3/7/2024,P0095,90,North,15.7,2,Retail,David,Credit Card,No,8.52
+3/8/2024,P0089,179,West,9.02,19,Retail,Bob,PayPal,No,19.94
+3/8/2024,P0097,310,North,37.5,7,Online,Alice,Bank Transfer,No,5.07
+3/8/2024,P0052,383,West,10.22,7,Retail,Bob,PayPal,No,14.59
+3/8/2024,P0035,205,North,34.38,10,Online,David,Bank Transfer,No,18.05
+3/8/2024,P0069,212,East,17.46,17,Retail,Charlie,Bank Transfer,No,15.08
+3/8/2024,P0005,56,North,25.59,14,Wholesale,Charlie,Credit Card,No,10.44
+3/8/2024,P0100,472,East,46.69,11,Wholesale,David,Cash,No,19.37
+3/8/2024,P0017,167,East,1.87,6,Retail,Bob,Cash,No,18.4
+3/8/2024,P0053,417,West,25.01,8,Online,David,Credit Card,No,11.51
+3/8/2024,P0052,203,West,42.72,19,Retail,Alice,PayPal,No,13.6
+3/8/2024,P0014,436,West,29.4,19,Online,Bob,Cash,No,19.51
+3/8/2024,P0029,427,East,13.84,17,Wholesale,David,PayPal,No,19.74
+3/8/2024,P0008,288,South,19.88,18,Online,Charlie,Cash,No,11.75
+3/8/2024,P0098,326,South,34.01,12,Retail,David,PayPal,No,17.71
+3/8/2024,P0001,488,East,44.54,9,Wholesale,Bob,Bank Transfer,No,9.53
+3/8/2024,P0029,430,East,2.05,16,Online,David,Bank Transfer,No,10.58
+3/8/2024,P0036,278,West,3.58,18,Online,Charlie,Cash,No,7.47
+3/8/2024,P0051,490,West,16.25,16,Wholesale,Alice,PayPal,No,8.14
+3/8/2024,P0037,208,West,11.64,16,Retail,David,PayPal,No,14.85
+3/8/2024,P0093,233,South,13.25,4,Wholesale,David,Bank Transfer,No,12.66
+3/8/2024,P0069,272,South,11.06,7,Retail,Alice,PayPal,No,8.47
+3/8/2024,P0053,435,East,9.79,1,Retail,David,Credit Card,No,11.04
+3/8/2024,P0096,175,South,6.53,1,Online,Charlie,PayPal,No,10.6
+3/8/2024,P0052,189,West,46.7,8,Retail,Alice,Bank Transfer,No,19.81
+3/9/2024,P0088,437,West,7.21,8,Retail,Charlie,Credit Card,No,17.8
+3/9/2024,P0083,201,West,10.22,10,Wholesale,Charlie,Credit Card,No,10.82
+3/9/2024,P0012,406,West,12.31,1,Wholesale,Charlie,PayPal,Yes,18.71
+3/9/2024,P0052,225,West,46.65,14,Retail,Bob,Bank Transfer,No,10.14
+3/9/2024,P0001,293,North,37.79,14,Online,Alice,Bank Transfer,Yes,15.02
+3/9/2024,P0007,361,East,39.48,10,Wholesale,Bob,Bank Transfer,No,19.5
+3/9/2024,P0017,116,East,5.24,19,Online,Bob,Credit Card,No,10.85
+3/9/2024,P0098,475,South,41.82,16,Wholesale,David,Bank Transfer,No,15.2
+3/9/2024,P0043,107,West,20.41,9,Wholesale,Alice,Credit Card,No,9.44
+3/9/2024,P0071,377,North,13.14,16,Retail,David,Credit Card,No,8.99
+3/9/2024,P0017,491,West,28.79,8,Wholesale,Bob,Cash,No,13.61
+3/9/2024,P0059,239,West,41.11,7,Wholesale,David,PayPal,No,19.69
+3/9/2024,P0003,266,South,38.93,11,Online,Charlie,Bank Transfer,No,11.8
+3/9/2024,P0029,52,North,44.5,6,Wholesale,Bob,Credit Card,No,19.06
+3/9/2024,P0022,251,North,46.41,15,Wholesale,Charlie,PayPal,No,18.72
+3/9/2024,P0038,51,East,11.91,19,Online,Alice,Credit Card,No,8.81
+3/9/2024,P0054,104,West,21.19,14,Retail,David,PayPal,No,11.03
+3/9/2024,P0093,443,North,0.73,15,Retail,Bob,Credit Card,Yes,14.65
+3/9/2024,P0050,263,East,43.97,6,Wholesale,Alice,Bank Transfer,No,12.77
+3/9/2024,P0069,197,North,7.73,10,Wholesale,Charlie,Cash,No,6.44
+3/9/2024,P0030,394,West,43.07,14,Online,David,Cash,No,19.91
+3/9/2024,P0023,316,East,16.47,16,Retail,David,Cash,Yes,16.29
+3/9/2024,P0085,409,North,18.41,13,Retail,Bob,Credit Card,No,11.57
+3/9/2024,P0090,176,South,1.96,11,Retail,David,PayPal,No,14.27
+3/10/2024,P0047,280,North,16.34,3,Online,David,Bank Transfer,No,6.31
+3/10/2024,P0021,134,West,44.42,8,Online,Charlie,Bank Transfer,No,12.43
+3/10/2024,P0020,170,South,1.28,3,Online,Charlie,Credit Card,No,18.96
+3/10/2024,P0023,96,North,20.32,2,Wholesale,Charlie,Cash,No,18.45
+3/10/2024,P0068,318,North,1.57,14,Retail,Alice,Credit Card,No,10.06
+3/10/2024,P0021,498,East,18.55,15,Wholesale,Alice,PayPal,Yes,12.97
+3/10/2024,P0021,235,West,8.63,3,Wholesale,David,Cash,No,15.46
+3/10/2024,P0001,154,North,12.61,1,Online,Alice,Credit Card,Yes,10.1
+3/10/2024,P0015,354,North,43.88,15,Retail,Bob,PayPal,No,5.97
+3/10/2024,P0017,257,North,21.8,2,Wholesale,Charlie,Cash,No,12.58
+3/10/2024,P0051,371,West,13.69,18,Retail,Alice,Bank Transfer,No,14.02
+3/10/2024,P0063,15,South,29.47,1,Wholesale,David,PayPal,No,5.09
+3/10/2024,P0014,40,West,7.11,9,Online,Charlie,Bank Transfer,No,6.43
+3/10/2024,P0059,206,East,12.97,3,Wholesale,Alice,PayPal,No,8.11
+3/10/2024,P0083,241,East,27.31,2,Online,Charlie,Cash,No,10.22
+3/10/2024,P0050,305,West,11.88,4,Retail,Alice,Credit Card,No,13.12
+3/10/2024,P0034,423,North,33.96,16,Wholesale,David,Credit Card,No,9.41
+3/10/2024,P0006,334,North,24.57,1,Wholesale,Alice,Credit Card,No,9.14
+3/10/2024,P0049,469,South,38.6,9,Online,Alice,Credit Card,No,18.04
+3/10/2024,P0006,144,West,47.41,8,Online,Alice,PayPal,No,7.18
+3/10/2024,P0069,22,West,5.79,6,Retail,Charlie,Credit Card,No,12.43
+3/10/2024,P0007,13,North,16.73,18,Online,Alice,Credit Card,No,19.29
+3/10/2024,P0097,187,East,15.98,16,Retail,Alice,PayPal,No,14.38
+3/10/2024,P0077,243,East,7.56,8,Wholesale,Alice,PayPal,No,15.76
+3/11/2024,P0051,268,South,40.52,4,Retail,Charlie,Cash,No,11.47
+3/11/2024,P0001,149,South,37.99,3,Retail,David,PayPal,No,5.3
+3/11/2024,P0013,74,East,24.22,15,Retail,David,Bank Transfer,No,14.69
+3/11/2024,P0043,292,West,26.89,6,Wholesale,David,Cash,No,14.48
+3/11/2024,P0027,372,South,2.98,1,Wholesale,Alice,Cash,No,6.66
+3/11/2024,P0071,315,North,27.78,18,Online,Charlie,Credit Card,No,11.93
+3/11/2024,P0003,214,West,39.57,11,Retail,David,Credit Card,No,18.73
+3/11/2024,P0058,26,North,28.69,3,Wholesale,David,Bank Transfer,No,8.08
+3/11/2024,P0089,209,South,13.27,13,Retail,David,Credit Card,Yes,11.92
+3/11/2024,P0097,41,East,33.38,17,Retail,Bob,PayPal,No,11.92
+3/11/2024,P0017,221,South,18.07,18,Retail,Charlie,PayPal,No,17.16
+3/11/2024,P0045,444,East,27.24,14,Wholesale,Bob,Credit Card,No,17.37
+3/11/2024,P0078,282,West,24.38,7,Retail,Alice,Credit Card,No,16.39
+3/11/2024,P0058,299,South,19.06,7,Retail,David,PayPal,No,10.48
+3/11/2024,P0056,300,South,35.94,14,Online,Alice,Cash,No,6.08
+3/11/2024,P0054,492,South,44.19,15,Retail,Charlie,Bank Transfer,No,10.24
+3/11/2024,P0087,495,West,0.26,12,Online,Alice,Bank Transfer,No,15.2
+3/11/2024,P0088,243,North,46.68,12,Retail,Alice,Cash,No,15.54
+3/11/2024,P0029,417,North,25.58,8,Online,David,Bank Transfer,Yes,19.48
+3/11/2024,P0054,191,East,35.04,16,Wholesale,Charlie,Credit Card,No,11.8
+3/11/2024,P0027,155,South,42.78,9,Wholesale,Alice,Credit Card,No,14.49
+3/11/2024,P0045,59,North,23.36,2,Retail,Bob,Credit Card,No,13.09
+3/11/2024,P0087,439,West,41.75,14,Online,David,Bank Transfer,No,7.26
+3/11/2024,P0031,441,South,8.88,16,Wholesale,Bob,Cash,No,11.92
+3/12/2024,P0036,112,East,7.96,5,Retail,David,Credit Card,No,13.17
+3/12/2024,P0081,42,North,32.87,5,Retail,Alice,Cash,No,19.26
+3/12/2024,P0061,480,West,43.51,18,Online,David,PayPal,No,10.5
+3/12/2024,P0037,98,West,44.62,18,Online,Alice,PayPal,No,19.7
+3/12/2024,P0067,494,East,32.19,5,Retail,Bob,PayPal,No,13.13
+3/12/2024,P0036,420,North,26.27,11,Online,Alice,Bank Transfer,No,8.64
+3/12/2024,P0005,394,South,16.57,13,Online,David,Bank Transfer,No,7.87
+3/12/2024,P0046,350,West,49,3,Wholesale,David,Credit Card,No,7.13
+3/12/2024,P0079,324,East,15.98,17,Online,David,PayPal,No,11.79
+3/12/2024,P0052,250,West,37.21,18,Retail,Bob,Cash,No,5.33
+3/12/2024,P0049,275,West,26.6,14,Online,Charlie,Bank Transfer,No,11.68
+3/12/2024,P0006,232,North,30.43,12,Retail,Bob,Cash,No,19.83
+3/12/2024,P0010,245,North,19.67,14,Retail,Alice,Cash,No,15.05
+3/12/2024,P0096,162,South,48.24,18,Online,Alice,Credit Card,Yes,16.4
+3/12/2024,P0023,477,West,28.58,2,Online,Bob,Credit Card,No,6.79
+3/12/2024,P0017,66,East,46.89,7,Online,Bob,Cash,No,12.1
+3/12/2024,P0084,331,West,0.38,15,Wholesale,Alice,Cash,No,9.29
+3/12/2024,P0044,384,East,28.63,10,Wholesale,Alice,Cash,No,18.41
+3/12/2024,P0041,121,West,35.86,15,Online,Alice,Cash,No,7.72
+3/12/2024,P0015,24,East,37.25,17,Retail,Charlie,PayPal,No,11.88
+3/12/2024,P0044,421,West,45.25,11,Online,Charlie,Cash,Yes,13.82
+3/12/2024,P0058,278,West,0.22,2,Wholesale,Bob,Bank Transfer,No,12.71
+3/12/2024,P0086,123,South,0.02,18,Wholesale,Bob,Credit Card,No,17.45
+3/12/2024,P0050,261,North,23.61,4,Online,Charlie,Bank Transfer,Yes,8.47
+3/13/2024,P0052,383,North,1.46,9,Retail,David,Credit Card,No,10.66
+3/13/2024,P0070,151,East,48.73,17,Retail,Charlie,Credit Card,No,16.88
+3/13/2024,P0068,123,West,11.1,17,Wholesale,Bob,Credit Card,Yes,12.92
+3/13/2024,P0063,459,West,23.63,17,Wholesale,Charlie,Bank Transfer,No,11.03
+3/13/2024,P0058,299,North,3.06,16,Wholesale,David,Credit Card,No,5.44
+3/13/2024,P0023,492,East,26.1,8,Retail,Bob,Cash,No,16.3
+3/13/2024,P0044,366,South,19,15,Wholesale,Alice,Cash,No,19.58
+3/13/2024,P0083,34,South,2.23,1,Wholesale,Bob,PayPal,No,14.3
+3/13/2024,P0095,377,South,16.76,19,Retail,Charlie,PayPal,Yes,17.85
+3/13/2024,P0044,319,West,19.57,15,Wholesale,Charlie,PayPal,No,12.75
+3/13/2024,P0052,264,East,49.5,9,Wholesale,David,Cash,No,8.48
+3/13/2024,P0067,472,North,10.39,5,Online,Charlie,Bank Transfer,Yes,5.22
+3/13/2024,P0028,277,West,27.24,16,Wholesale,David,PayPal,No,14.8
+3/13/2024,P0067,135,West,49.37,13,Online,Bob,Cash,No,12.4
+3/13/2024,P0078,402,South,39.6,16,Wholesale,Charlie,Credit Card,No,16.73
+3/13/2024,P0018,259,East,49.67,11,Wholesale,Bob,Bank Transfer,Yes,15.42
+3/13/2024,P0027,296,East,48.41,13,Online,Alice,Bank Transfer,Yes,19.82
+3/13/2024,P0051,343,South,24.48,6,Wholesale,Alice,Cash,No,12.65
+3/13/2024,P0060,486,South,34.82,17,Online,David,Cash,No,11.41
+3/13/2024,P0074,62,South,5.52,5,Wholesale,Charlie,Credit Card,No,9.3
+3/13/2024,P0049,377,West,22.06,17,Online,Bob,Credit Card,No,12.15
+3/13/2024,P0015,52,West,40.45,1,Online,Bob,Credit Card,Yes,18.09
+3/13/2024,P0083,175,West,25.27,5,Wholesale,Charlie,Bank Transfer,No,5.64
+3/13/2024,P0073,51,North,35.13,5,Wholesale,Bob,Bank Transfer,No,19.67
+3/14/2024,P0068,389,North,37.29,7,Online,Charlie,PayPal,No,19.9
+3/14/2024,P0015,465,East,12.67,16,Retail,Charlie,PayPal,No,13.97
+3/14/2024,P0051,185,South,43.78,18,Wholesale,Alice,PayPal,No,9.97
+3/14/2024,P0048,76,South,22.99,6,Wholesale,Charlie,Bank Transfer,No,8.35
+3/14/2024,P0072,75,West,10.51,2,Retail,Bob,Credit Card,Yes,9.15
+3/14/2024,P0001,409,North,43.27,13,Retail,Charlie,PayPal,Yes,5.75
+3/14/2024,P0007,92,South,20.89,10,Online,Alice,Credit Card,No,12.13
+3/14/2024,P0053,359,East,37.52,11,Wholesale,Alice,Credit Card,No,5.86
+3/14/2024,P0031,114,South,27.4,2,Online,David,Credit Card,No,15.78
+3/14/2024,P0018,409,West,19.09,8,Wholesale,Bob,PayPal,No,10.58
+3/14/2024,P0012,296,West,40.49,19,Retail,Charlie,PayPal,No,7.99
+3/14/2024,P0048,383,North,29.22,17,Online,Bob,Credit Card,No,13.17
+3/14/2024,P0030,195,East,19.53,16,Wholesale,Bob,PayPal,No,19.61
+3/14/2024,P0097,293,East,5.48,10,Wholesale,Charlie,Cash,No,15.43
+3/14/2024,P0007,13,South,44.77,5,Retail,Alice,PayPal,No,12.38
+3/14/2024,P0092,147,East,1.77,14,Retail,Bob,Credit Card,No,16.65
+3/14/2024,P0003,188,South,43.16,19,Wholesale,David,Credit Card,No,16.06
+3/14/2024,P0063,246,South,18,4,Retail,Bob,Bank Transfer,No,18.38
+3/14/2024,P0006,27,North,31.97,16,Retail,Alice,Bank Transfer,No,8.07
+3/14/2024,P0095,312,East,46.11,15,Online,David,Credit Card,No,17.88
+3/14/2024,P0015,425,West,7.59,9,Wholesale,David,Cash,No,9.52
+3/14/2024,P0071,423,South,28.35,3,Online,David,Bank Transfer,No,19.11
+3/14/2024,P0043,429,South,38.22,9,Retail,David,Credit Card,No,9.22
+3/14/2024,P0094,18,South,37.88,18,Wholesale,Charlie,Bank Transfer,No,18.9
+3/15/2024,P0091,429,East,26.28,4,Retail,Charlie,Bank Transfer,No,19.46
+3/15/2024,P0081,38,East,31.24,19,Retail,Charlie,Credit Card,No,7.18
+3/15/2024,P0018,153,East,37.88,4,Wholesale,David,PayPal,Yes,19.62
+3/15/2024,P0022,357,South,42.05,9,Retail,Alice,Cash,No,6.29
+3/15/2024,P0061,158,West,38.09,1,Online,Bob,PayPal,No,8.28
+3/15/2024,P0061,73,West,17.7,1,Wholesale,David,Credit Card,Yes,11.66
+3/15/2024,P0053,376,East,49.84,19,Retail,Alice,Credit Card,No,19.9
+3/15/2024,P0026,459,West,21.73,3,Retail,Bob,Cash,No,12.33
+3/15/2024,P0091,389,South,1.22,10,Retail,David,Credit Card,No,13.26
+3/15/2024,P0040,196,East,18.13,12,Wholesale,Bob,Bank Transfer,No,15.42
+3/15/2024,P0088,375,East,6.39,18,Online,Charlie,Cash,No,19.52
+3/15/2024,P0008,236,South,6.07,14,Retail,Charlie,PayPal,No,16.75
+3/15/2024,P0021,127,East,14.08,10,Retail,Charlie,Cash,No,8.36
+3/15/2024,P0093,421,South,2.67,10,Retail,Alice,PayPal,Yes,9.54
+3/15/2024,P0043,448,East,34.43,18,Wholesale,Charlie,Credit Card,No,6.46
+3/15/2024,P0021,365,West,3.7,1,Retail,Alice,PayPal,No,14.67
+3/15/2024,P0003,263,East,10.16,15,Retail,Charlie,PayPal,No,7.71
+3/15/2024,P0031,40,East,4.64,8,Retail,Charlie,PayPal,No,8.86
+3/15/2024,P0027,170,East,3.16,3,Wholesale,Charlie,Cash,No,18.32
+3/15/2024,P0027,224,North,13.39,18,Online,Alice,Bank Transfer,No,9.9
+3/15/2024,P0073,453,West,28.59,9,Wholesale,Bob,PayPal,No,13.5
+3/15/2024,P0057,178,South,48.23,16,Online,Alice,Cash,No,10.96
+3/15/2024,P0097,90,North,43.78,15,Online,David,Cash,No,6.11
+3/15/2024,P0033,55,West,43.8,5,Wholesale,David,Bank Transfer,No,10.44
+3/16/2024,P0090,58,East,8.8,13,Retail,Alice,Cash,Yes,11.12
+3/16/2024,P0092,458,East,13.25,7,Online,Alice,Credit Card,No,18.44
+3/16/2024,P0044,307,South,3.82,16,Retail,Bob,Credit Card,No,9.87
+3/16/2024,P0043,416,South,38.92,7,Online,Alice,Credit Card,No,10.69
+3/16/2024,P0031,377,West,3.49,16,Retail,Charlie,Bank Transfer,Yes,16.74
+3/16/2024,P0065,292,West,27.83,13,Retail,Bob,Cash,Yes,16.38
+3/16/2024,P0084,482,South,12.39,17,Wholesale,Alice,Credit Card,No,16.97
+3/16/2024,P0076,425,West,12.17,9,Retail,Alice,PayPal,No,19.31
+3/16/2024,P0017,476,South,49.54,12,Online,David,Cash,No,16.93
+3/16/2024,P0015,97,East,37.84,13,Retail,Bob,Credit Card,No,11.11
+3/16/2024,P0034,130,South,41.85,9,Retail,David,Cash,No,17.32
+3/16/2024,P0080,12,North,28.6,5,Retail,Alice,Credit Card,No,12.63
+3/16/2024,P0004,325,South,43.55,7,Online,Bob,PayPal,No,9.17
+3/16/2024,P0072,469,South,32.27,1,Online,Charlie,Cash,No,9.54
+3/16/2024,P0098,236,North,47.31,4,Online,Alice,Credit Card,No,8.36
+3/16/2024,P0089,88,North,14.07,4,Retail,Alice,Credit Card,No,7.17
+3/16/2024,P0079,154,North,29.77,16,Wholesale,David,PayPal,No,7.77
+3/16/2024,P0028,251,North,34.51,5,Online,Charlie,PayPal,No,5.95
+3/16/2024,P0073,41,South,19.65,4,Retail,Alice,Credit Card,No,18.33
+3/16/2024,P0002,272,West,43.99,6,Online,David,Credit Card,No,18.97
+3/16/2024,P0017,220,North,48.99,3,Wholesale,David,Bank Transfer,No,13.8
+3/16/2024,P0058,80,East,24.69,8,Retail,Alice,Bank Transfer,No,17.61
+3/16/2024,P0074,393,South,19.53,17,Online,Bob,Cash,No,7.75
+3/16/2024,P0009,206,West,23.6,18,Online,Alice,Cash,No,18.53
+3/17/2024,P0031,67,East,42.64,18,Wholesale,Charlie,Bank Transfer,Yes,12.6
+3/17/2024,P0066,433,South,32.27,12,Online,Alice,Credit Card,No,6.01
+3/17/2024,P0088,478,South,2.24,1,Retail,Bob,PayPal,No,7.12
+3/17/2024,P0062,121,East,27.11,12,Retail,David,Cash,No,9.63
+3/17/2024,P0019,57,North,0.87,11,Wholesale,Charlie,Credit Card,Yes,5.65
+3/17/2024,P0081,444,North,38.93,13,Wholesale,Charlie,PayPal,No,9.64
+3/17/2024,P0074,194,East,16.42,3,Wholesale,Charlie,PayPal,No,5.9
+3/17/2024,P0055,376,West,23.6,8,Retail,Charlie,Credit Card,No,8.54
+3/17/2024,P0028,336,North,39.93,3,Wholesale,Bob,Credit Card,No,8.99
+3/17/2024,P0092,174,South,2.32,17,Online,Bob,Cash,No,19.92
+3/17/2024,P0050,224,South,7.93,13,Online,Bob,Bank Transfer,No,8.53
+3/17/2024,P0065,340,West,19.9,10,Retail,Bob,Credit Card,No,8.59
+3/17/2024,P0003,339,South,11.5,17,Online,David,Bank Transfer,No,15.3
+3/17/2024,P0079,130,North,16.9,3,Wholesale,Alice,Cash,No,17.89
+3/17/2024,P0052,222,West,49.91,13,Online,Bob,Bank Transfer,No,10.81
+3/17/2024,P0010,320,North,41.27,6,Wholesale,Alice,Bank Transfer,Yes,18.13
+3/17/2024,P0021,50,West,44.2,14,Online,Charlie,PayPal,No,10.1
+3/17/2024,P0037,362,East,46.85,10,Retail,David,Cash,No,7.96
+3/17/2024,P0015,413,South,17.05,16,Wholesale,David,Credit Card,No,9.94
+3/17/2024,P0087,298,West,14.85,18,Online,Alice,Bank Transfer,No,14.14
+3/17/2024,P0078,177,East,11.7,13,Retail,Alice,Cash,No,10.51
+3/17/2024,P0079,492,North,41.51,10,Online,Alice,PayPal,No,15.09
+3/17/2024,P0074,43,East,33.98,6,Retail,David,PayPal,No,8.55
+3/17/2024,P0009,327,North,11.81,10,Online,Bob,Bank Transfer,No,15.51
+3/18/2024,P0044,493,West,18.85,5,Wholesale,David,Bank Transfer,No,10.21
+3/18/2024,P0039,484,West,25.34,6,Wholesale,Bob,Credit Card,No,11.84
+3/18/2024,P0005,284,South,26.41,7,Wholesale,Charlie,Cash,No,13.37
+3/18/2024,P0025,436,South,44.44,11,Wholesale,Bob,Credit Card,No,15.29
+3/18/2024,P0056,206,West,19.03,16,Wholesale,Alice,Credit Card,No,8.58
+3/18/2024,P0090,200,North,45.43,12,Online,Bob,PayPal,No,17.54
+3/18/2024,P0064,230,North,22.07,12,Online,Bob,Cash,No,15.83
+3/18/2024,P0072,19,West,37.32,5,Online,David,Credit Card,No,8.51
+3/18/2024,P0086,129,North,46.51,16,Online,Alice,PayPal,No,19.62
+3/18/2024,P0052,132,West,45.38,6,Wholesale,Charlie,Bank Transfer,No,14.97
+3/18/2024,P0089,256,South,2.85,9,Retail,Bob,Credit Card,Yes,11.79
+3/18/2024,P0076,369,North,10.29,5,Wholesale,Charlie,Bank Transfer,No,7.36
+3/18/2024,P0009,406,South,23.85,16,Online,Alice,Cash,No,13
+3/18/2024,P0010,230,East,21.58,18,Wholesale,Bob,Credit Card,No,7.47
+3/18/2024,P0010,270,South,32.04,19,Wholesale,David,Bank Transfer,No,11.44
+3/18/2024,P0073,67,East,47.24,12,Wholesale,Charlie,Bank Transfer,No,11.13
+3/18/2024,P0062,324,South,5.62,2,Retail,David,Cash,No,15.8
+3/18/2024,P0090,469,South,22.59,10,Wholesale,Charlie,PayPal,No,7.89
+3/18/2024,P0099,137,North,9.62,12,Wholesale,Alice,PayPal,No,17.33
+3/18/2024,P0091,196,South,44.71,14,Retail,Bob,Credit Card,No,9.89
+3/18/2024,P0060,214,West,48.23,18,Wholesale,Charlie,Bank Transfer,No,11.66
+3/18/2024,P0095,95,North,23.94,19,Wholesale,David,PayPal,No,16.59
+3/18/2024,P0019,113,North,5.2,6,Wholesale,Charlie,Credit Card,No,14.38
+3/18/2024,P0038,152,North,39.26,5,Wholesale,Charlie,Bank Transfer,No,9.62
+3/19/2024,P0006,214,South,34.86,16,Wholesale,Charlie,Credit Card,No,10.79
+3/19/2024,P0015,138,North,17.73,14,Online,Charlie,Cash,No,9.59
+3/19/2024,P0093,255,East,44.37,13,Wholesale,Charlie,Credit Card,No,13.92
+3/19/2024,P0047,47,East,48.79,2,Retail,Charlie,Cash,No,9.99
+3/19/2024,P0045,372,South,27.89,2,Wholesale,David,Bank Transfer,No,15.89
+3/19/2024,P0005,118,North,28.29,12,Online,Charlie,Bank Transfer,No,13.7
+3/19/2024,P0078,318,West,14.88,1,Retail,Charlie,Bank Transfer,No,7.19
+3/19/2024,P0053,61,West,29.23,19,Retail,Charlie,Credit Card,No,9.65
+3/19/2024,P0066,10,East,21.98,16,Wholesale,Bob,Bank Transfer,No,8.32
+3/19/2024,P0062,20,South,15.11,7,Online,Alice,Bank Transfer,No,10.85
+3/19/2024,P0023,323,South,3.36,7,Wholesale,Alice,Cash,Yes,12.74
+3/19/2024,P0044,244,South,12.64,16,Online,Alice,Bank Transfer,No,12.6
+3/19/2024,P0052,137,South,9.89,6,Online,David,Bank Transfer,No,16.32
+3/19/2024,P0046,433,South,27.1,18,Wholesale,David,Bank Transfer,Yes,7.84
+3/19/2024,P0019,223,North,30.08,1,Online,David,PayPal,Yes,19.2
+3/19/2024,P0088,492,North,30.43,1,Wholesale,Charlie,Bank Transfer,No,10.14
+3/19/2024,P0084,453,North,19.41,14,Online,Alice,Credit Card,No,9.5
+3/19/2024,P0047,252,West,21.06,6,Retail,Charlie,Cash,Yes,15.28
+3/19/2024,P0091,53,North,41.71,6,Wholesale,Bob,Bank Transfer,No,17.08
+3/19/2024,P0052,15,South,23.81,4,Online,Alice,Credit Card,No,10.68
+3/19/2024,P0024,165,South,49.39,12,Retail,Bob,Cash,No,16.2
+3/19/2024,P0017,424,West,21.98,18,Retail,Bob,Cash,Yes,18.26
+3/19/2024,P0089,17,West,32.48,10,Retail,Charlie,Credit Card,No,16.5
+3/19/2024,P0046,14,East,2.52,3,Retail,Alice,Credit Card,No,5.51
+3/20/2024,P0064,371,West,32.67,3,Wholesale,Bob,PayPal,No,17.41
+3/20/2024,P0095,191,East,42.57,8,Online,Alice,PayPal,No,16.62
+3/20/2024,P0028,121,North,47.12,1,Retail,Bob,Bank Transfer,Yes,15.04
+3/20/2024,P0050,282,South,49.87,18,Online,Bob,PayPal,No,16.4
+3/20/2024,P0064,431,East,14.11,15,Online,Charlie,Credit Card,No,19.69
+3/20/2024,P0028,274,East,28.77,17,Online,Alice,PayPal,No,11.47
+3/20/2024,P0086,467,East,22.54,11,Wholesale,Charlie,Cash,No,6.01
+3/20/2024,P0056,221,West,28.19,13,Wholesale,Charlie,Credit Card,No,11.91
+3/20/2024,P0059,87,West,7.87,10,Retail,Charlie,Bank Transfer,No,5.7
+3/20/2024,P0005,279,West,42.81,13,Online,Charlie,Cash,No,9.41
+3/20/2024,P0054,163,East,45.48,17,Wholesale,Charlie,Cash,No,13.8
+3/20/2024,P0044,230,North,22.48,1,Wholesale,Bob,Cash,No,9.64
+3/20/2024,P0042,378,South,14.02,16,Wholesale,Alice,Credit Card,No,15.28
+3/20/2024,P0072,455,West,7.04,16,Retail,Alice,Credit Card,No,17.33
+3/20/2024,P0092,356,North,34.19,3,Wholesale,Charlie,Bank Transfer,Yes,11.31
+3/20/2024,P0057,34,West,15.61,2,Online,Alice,PayPal,No,18.5
+3/20/2024,P0047,473,West,45.48,6,Wholesale,Bob,PayPal,No,6.2
+3/20/2024,P0076,429,East,33.55,11,Wholesale,Charlie,PayPal,No,17.6
+3/20/2024,P0025,363,East,32.28,3,Retail,David,PayPal,No,17.43
+3/20/2024,P0044,217,West,27.97,1,Online,David,Cash,Yes,9.83
+3/20/2024,P0015,426,South,2.29,11,Wholesale,Bob,Credit Card,No,9.48
+3/20/2024,P0051,12,West,46.6,13,Online,Bob,PayPal,No,9.58
+3/20/2024,P0053,224,South,31.4,5,Online,David,Cash,No,17.17
+3/20/2024,P0034,404,North,49.7,18,Wholesale,Charlie,Credit Card,No,17.47
+3/21/2024,P0077,121,West,26.87,15,Retail,Bob,Credit Card,No,9.95
+3/21/2024,P0008,451,South,35.51,18,Online,David,Credit Card,No,13.89
+3/21/2024,P0077,201,North,2.81,15,Wholesale,Charlie,Cash,No,7.08
+3/21/2024,P0100,411,North,31.59,7,Online,Bob,PayPal,Yes,12.03
+3/21/2024,P0070,56,East,38.23,17,Online,Alice,Credit Card,No,19.98
+3/21/2024,P0096,498,North,38.93,8,Online,Alice,Cash,Yes,7.38
+3/21/2024,P0021,437,East,38.51,13,Wholesale,Alice,Credit Card,No,19.21
+3/21/2024,P0007,230,North,11.31,16,Online,Charlie,Bank Transfer,No,17.36
+3/21/2024,P0090,196,North,48.77,10,Online,Bob,Bank Transfer,No,19.58
+3/21/2024,P0079,59,South,49.76,14,Retail,David,Cash,No,7.69
+3/21/2024,P0056,206,South,3.78,6,Wholesale,Bob,PayPal,No,8.2
+3/21/2024,P0049,225,East,46.82,7,Wholesale,Alice,PayPal,No,5.25
+3/21/2024,P0042,422,West,14.47,6,Online,Alice,Credit Card,No,15.87
+3/21/2024,P0023,230,South,34.46,17,Retail,Charlie,PayPal,No,14.66
+3/21/2024,P0052,389,North,16.91,8,Online,David,PayPal,No,7.67
+3/21/2024,P0079,99,East,48.39,12,Online,Charlie,Bank Transfer,No,16.87
+3/21/2024,P0053,241,East,5.08,4,Wholesale,David,Cash,Yes,9.49
+3/21/2024,P0016,332,East,24.89,10,Retail,Bob,Bank Transfer,No,7.02
+3/21/2024,P0096,267,North,21.4,6,Online,Charlie,Cash,No,11.34
+3/21/2024,P0037,162,South,16.3,7,Wholesale,Charlie,Credit Card,No,6.36
+3/21/2024,P0018,265,West,32.28,8,Online,Charlie,Bank Transfer,No,8.95
+3/21/2024,P0020,412,East,6.55,3,Online,Alice,Cash,No,10.57
+3/21/2024,P0046,433,North,35.83,8,Retail,Alice,PayPal,No,17.78
+3/21/2024,P0002,267,South,49.03,15,Retail,David,Cash,No,16.89
+3/22/2024,P0087,476,South,40.23,1,Retail,Bob,PayPal,No,11.64
+3/22/2024,P0094,74,West,43,13,Online,Charlie,Credit Card,No,15.87
+3/22/2024,P0063,199,East,17.98,18,Retail,Alice,PayPal,No,13.53
+3/22/2024,P0003,100,North,16.24,15,Wholesale,Charlie,Cash,No,10.11
+3/22/2024,P0046,447,South,25.85,7,Online,David,Bank Transfer,No,15.89
+3/22/2024,P0049,182,North,2.29,15,Retail,David,Cash,No,15.25
+3/22/2024,P0001,256,South,47.27,3,Online,Bob,Bank Transfer,No,14.29
+3/22/2024,P0022,265,East,7.19,14,Online,David,Cash,Yes,14.27
+3/22/2024,P0093,125,East,45.15,4,Wholesale,Charlie,Cash,No,15.24
+3/22/2024,P0014,58,West,4.18,4,Wholesale,Bob,Credit Card,No,10.77
+3/22/2024,P0092,236,South,41.13,3,Wholesale,Bob,PayPal,No,18.04
+3/22/2024,P0085,498,North,7.6,5,Online,Alice,Cash,No,7.43
+3/22/2024,P0045,78,South,1.91,11,Online,Charlie,Bank Transfer,No,18.26
+3/22/2024,P0096,431,North,35.97,8,Wholesale,David,PayPal,No,10.13
+3/22/2024,P0006,397,West,14.01,2,Online,Alice,Credit Card,No,6.88
+3/22/2024,P0065,410,South,35.72,16,Wholesale,Charlie,PayPal,Yes,14
+3/22/2024,P0021,135,East,27.75,10,Wholesale,Charlie,Cash,No,10.64
+3/22/2024,P0004,446,North,5.44,18,Retail,Bob,Bank Transfer,No,17.23
+3/22/2024,P0003,222,East,46.61,7,Wholesale,Bob,Bank Transfer,No,11.46
+3/22/2024,P0030,62,West,22.62,5,Retail,Charlie,PayPal,No,15.03
+3/22/2024,P0031,121,West,36.72,7,Wholesale,Alice,Bank Transfer,No,9.62
+3/22/2024,P0034,168,North,25.05,6,Online,Bob,Cash,No,8.14
+3/22/2024,P0083,249,South,30.22,1,Retail,Bob,Bank Transfer,No,10.82
+3/22/2024,P0020,159,East,15.14,11,Online,Charlie,Bank Transfer,No,14.1
+3/23/2024,P0087,148,East,10.02,13,Online,Charlie,Bank Transfer,No,14.85
+3/23/2024,P0054,427,North,27.13,12,Wholesale,Bob,Cash,No,13.67
+3/23/2024,P0025,122,North,22.01,1,Wholesale,Alice,Credit Card,No,19.82
+3/23/2024,P0015,152,North,19.51,15,Online,Bob,Bank Transfer,No,15.37
+3/23/2024,P0038,379,West,33.63,1,Wholesale,Charlie,Credit Card,No,18.97
+3/23/2024,P0023,147,West,34.53,3,Wholesale,Bob,PayPal,No,6.77
+3/23/2024,P0052,495,East,2.3,15,Wholesale,Charlie,PayPal,No,5.92
+3/23/2024,P0066,489,South,16.94,9,Online,Bob,Cash,No,9.66
+3/23/2024,P0057,446,North,20.59,14,Retail,Charlie,Cash,No,7.05
+3/23/2024,P0057,313,West,4.84,8,Retail,Charlie,Cash,No,12.89
+3/23/2024,P0079,40,South,11.8,4,Online,Alice,Cash,No,12.78
+3/23/2024,P0052,302,North,2.58,6,Wholesale,Charlie,Credit Card,No,13.63
+3/23/2024,P0035,117,South,49.81,1,Wholesale,Bob,Cash,No,16.18
+3/23/2024,P0074,293,North,36.83,18,Retail,Charlie,Credit Card,No,19.57
+3/23/2024,P0014,168,South,4.37,6,Online,David,Bank Transfer,No,18.17
+3/23/2024,P0091,335,East,1.01,14,Online,Bob,Bank Transfer,No,6.78
+3/23/2024,P0014,23,North,35.96,11,Wholesale,Alice,PayPal,No,10.08
+3/23/2024,P0099,131,North,21.96,17,Wholesale,Bob,PayPal,No,8.84
+3/23/2024,P0033,224,East,39.34,9,Wholesale,Alice,Credit Card,Yes,7.65
+3/23/2024,P0052,281,North,46.17,7,Online,David,Cash,No,13.17
+3/23/2024,P0001,34,North,29.97,14,Retail,Alice,PayPal,No,13.3
+3/23/2024,P0034,432,West,9.36,17,Online,Charlie,Credit Card,No,8.41
+3/23/2024,P0019,331,East,39.11,8,Online,David,PayPal,Yes,15.68
+3/23/2024,P0024,303,West,47.79,16,Online,David,Cash,No,15.99
+3/24/2024,P0004,178,East,29.01,12,Retail,Alice,Credit Card,No,5.31
+3/24/2024,P0036,112,South,34.1,12,Wholesale,Bob,PayPal,No,10.94
+3/24/2024,P0077,363,East,16.87,5,Wholesale,Alice,Cash,No,18.35
+3/24/2024,P0058,380,East,19.08,5,Online,Alice,Credit Card,No,12.8
+3/24/2024,P0032,49,West,36.73,14,Online,David,Credit Card,No,10.21
+3/24/2024,P0009,244,North,46.39,6,Retail,Charlie,Credit Card,No,8.81
+3/24/2024,P0080,329,East,31.45,7,Retail,Bob,Bank Transfer,No,8.65
+3/24/2024,P0067,98,North,39.49,17,Wholesale,Alice,Credit Card,No,6.5
+3/24/2024,P0020,109,East,8.58,9,Online,Charlie,PayPal,No,17.26
+3/24/2024,P0074,153,West,10.6,13,Retail,Charlie,Credit Card,No,6.3
+3/24/2024,P0062,91,East,26.6,9,Retail,Bob,Credit Card,No,9.38
+3/24/2024,P0058,86,South,8.83,16,Online,Charlie,Credit Card,No,5.69
+3/24/2024,P0022,68,East,31.75,4,Online,Alice,Credit Card,No,16.72
+3/24/2024,P0067,238,East,14.58,2,Online,David,Credit Card,No,5.59
+3/24/2024,P0075,100,North,39.58,13,Online,Charlie,Bank Transfer,No,9.62
+3/24/2024,P0089,363,North,40.41,13,Online,David,Cash,No,13.6
+3/24/2024,P0048,404,South,23.19,19,Online,Bob,Bank Transfer,Yes,11.14
+3/24/2024,P0008,10,East,9.04,12,Retail,Bob,PayPal,No,9.23
+3/24/2024,P0073,278,North,32.34,4,Online,Charlie,Cash,No,9.13
+3/24/2024,P0015,295,East,49.64,10,Wholesale,David,PayPal,No,16.97
+3/24/2024,P0032,206,West,31.13,16,Online,Alice,Credit Card,No,19.61
+3/24/2024,P0053,283,West,1.79,19,Wholesale,David,PayPal,Yes,10.22
+3/24/2024,P0067,87,South,0.86,8,Wholesale,Charlie,Bank Transfer,No,5.59
+3/24/2024,P0004,150,West,16.02,6,Wholesale,David,Bank Transfer,No,5.55
+3/25/2024,P0030,297,North,9.79,4,Online,David,Credit Card,No,16.39
+3/25/2024,P0013,80,North,40.65,7,Online,Bob,Credit Card,No,13.29
+3/25/2024,P0021,465,South,42.24,14,Wholesale,Charlie,Cash,No,16.75
+3/25/2024,P0041,59,East,12.93,13,Online,David,Bank Transfer,No,15.46
+3/25/2024,P0019,464,North,16.28,5,Retail,Charlie,Bank Transfer,No,18.61
+3/25/2024,P0048,381,West,11.81,9,Retail,Alice,Cash,Yes,18.29
+3/25/2024,P0086,378,North,45.42,3,Retail,Charlie,Bank Transfer,No,16.82
+3/25/2024,P0063,89,South,25.13,10,Retail,Alice,Cash,No,12.13
+3/25/2024,P0020,244,West,32.81,15,Online,Charlie,Bank Transfer,No,9.62
+3/25/2024,P0064,296,West,20.77,17,Wholesale,Charlie,PayPal,No,12.61
+3/25/2024,P0037,316,West,31.55,6,Online,David,PayPal,No,12.53
+3/25/2024,P0031,164,South,19.29,3,Retail,David,Cash,No,14.15
+3/25/2024,P0074,69,South,16.98,18,Online,Alice,Cash,No,7.79
+3/25/2024,P0018,42,East,31.72,5,Online,Alice,Credit Card,No,14.83
+3/25/2024,P0020,446,East,29.55,13,Retail,Bob,Bank Transfer,No,11.85
+3/25/2024,P0082,136,East,14.68,1,Wholesale,David,PayPal,No,14.3
+3/25/2024,P0011,230,South,7.47,17,Online,Alice,Credit Card,No,8.59
+3/25/2024,P0086,209,West,18.43,3,Online,David,Bank Transfer,No,11.52
+3/25/2024,P0044,426,West,20.76,19,Retail,Charlie,PayPal,No,8.15
+3/25/2024,P0082,135,North,31.43,12,Wholesale,Bob,Bank Transfer,No,18.13
+3/25/2024,P0064,50,East,45.73,8,Retail,David,Cash,No,12.32
+3/25/2024,P0034,284,West,1.81,8,Retail,David,PayPal,No,8.37
+3/25/2024,P0087,478,West,12.18,15,Online,David,PayPal,No,5.62
+3/25/2024,P0065,306,West,9.69,11,Wholesale,David,Credit Card,No,15.14
+3/26/2024,P0055,94,West,25.11,1,Retail,Alice,Bank Transfer,No,8.22
+3/26/2024,P0074,98,South,21.49,16,Online,Alice,Cash,Yes,19.84
+3/26/2024,P0001,51,East,36.45,14,Retail,Bob,Cash,No,13.01
+3/26/2024,P0038,129,West,12.12,7,Online,Charlie,Bank Transfer,No,9.33
+3/26/2024,P0009,288,West,29.72,6,Wholesale,Charlie,Bank Transfer,Yes,14.87
+3/26/2024,P0095,468,West,44.19,4,Retail,Bob,Cash,Yes,9.13
+3/26/2024,P0071,42,West,45.53,8,Wholesale,Charlie,Bank Transfer,No,17.3
+3/26/2024,P0017,285,North,47.94,19,Wholesale,Alice,Credit Card,No,9.62
+3/26/2024,P0099,162,West,38.66,3,Online,David,Bank Transfer,Yes,19.82
+3/26/2024,P0052,99,West,45.3,4,Retail,Charlie,Credit Card,No,14.08
+3/26/2024,P0018,113,West,11.73,13,Retail,David,Credit Card,No,17.67
+3/26/2024,P0063,445,North,9.88,2,Online,David,Bank Transfer,No,6.09
+3/26/2024,P0033,21,South,0.32,11,Online,Alice,PayPal,No,10.22
+3/26/2024,P0004,169,North,35.34,16,Wholesale,David,PayPal,No,16.06
+3/26/2024,P0087,426,West,46.87,10,Retail,Charlie,Credit Card,No,14.83
+3/26/2024,P0075,467,South,9.35,15,Retail,Alice,Bank Transfer,No,7.91
+3/26/2024,P0052,205,West,31.85,10,Online,Bob,Credit Card,No,10.34
+3/26/2024,P0009,408,South,37.32,2,Online,Alice,Bank Transfer,No,8.95
+3/26/2024,P0064,316,West,46.38,6,Online,Charlie,Bank Transfer,No,14.2
+3/26/2024,P0030,271,West,32.34,14,Retail,Alice,Cash,No,10.17
+3/26/2024,P0008,100,South,48.51,2,Retail,Charlie,PayPal,No,9.64
+3/26/2024,P0005,206,South,17.23,10,Wholesale,Charlie,PayPal,No,8.11
+3/26/2024,P0076,78,West,17.5,17,Online,Alice,Cash,No,11.14
+3/26/2024,P0063,475,North,27.15,8,Wholesale,Charlie,Cash,No,7.93
+3/27/2024,P0001,229,North,19.18,16,Retail,Bob,Cash,No,19.44
+3/27/2024,P0015,428,North,0.07,14,Wholesale,Charlie,Credit Card,No,7.32
+3/27/2024,P0089,388,North,36.59,10,Wholesale,Bob,Credit Card,No,18.7
+3/27/2024,P0082,223,South,37.59,13,Wholesale,Bob,Credit Card,No,11.43
+3/27/2024,P0038,427,South,37.35,1,Online,Charlie,Credit Card,No,10.67
+3/27/2024,P0042,456,North,17.25,10,Retail,David,Credit Card,No,8.47
+3/27/2024,P0046,461,East,26.11,12,Online,Bob,PayPal,No,14.54
+3/27/2024,P0053,155,East,18,17,Wholesale,Bob,PayPal,No,15.28
+3/27/2024,P0026,242,East,0.8,14,Online,Alice,Bank Transfer,No,12.01
+3/27/2024,P0061,380,West,28.12,5,Retail,Bob,PayPal,No,5.84
+3/27/2024,P0067,419,North,6.19,19,Retail,Bob,Cash,No,18.78
+3/27/2024,P0054,243,West,4,5,Wholesale,Bob,PayPal,No,19.7
+3/27/2024,P0022,223,South,37.77,15,Wholesale,Bob,Cash,No,11.47
+3/27/2024,P0026,376,South,0.48,13,Online,David,PayPal,No,14.2
+3/27/2024,P0083,490,East,47.95,17,Retail,Bob,Credit Card,No,11.75
+3/27/2024,P0060,70,East,25.76,1,Retail,Charlie,PayPal,Yes,9.83
+3/27/2024,P0039,372,South,49.15,14,Online,David,Bank Transfer,No,6.16
+3/27/2024,P0036,87,East,2.9,4,Retail,Bob,Credit Card,No,11.84
+3/27/2024,P0021,104,East,29.18,9,Wholesale,Charlie,Credit Card,No,17.28
+3/27/2024,P0041,339,South,17.47,17,Wholesale,Charlie,Bank Transfer,No,5.26
+3/27/2024,P0048,225,West,42.17,3,Online,David,PayPal,No,13.73
+3/27/2024,P0026,222,East,18.06,13,Online,David,PayPal,Yes,18.21
+3/27/2024,P0063,313,West,13.02,12,Online,Charlie,Bank Transfer,No,8.26
+3/27/2024,P0077,209,East,42.88,16,Wholesale,David,Credit Card,No,7.75
+3/28/2024,P0036,361,North,18.73,4,Online,David,Bank Transfer,No,16.58
+3/28/2024,P0024,40,West,0.84,18,Retail,Alice,Cash,No,8.83
+3/28/2024,P0090,299,West,19.51,3,Online,David,Cash,No,7.88
+3/28/2024,P0021,352,East,32.73,17,Retail,Alice,PayPal,No,10.67
+3/28/2024,P0018,482,West,12.72,1,Wholesale,David,Credit Card,Yes,10.89
+3/28/2024,P0015,144,North,21.6,19,Retail,David,Cash,No,18.11
+3/28/2024,P0079,92,South,2.84,4,Retail,Charlie,Bank Transfer,No,14.28
+3/28/2024,P0006,400,North,29.4,17,Retail,Alice,PayPal,No,11.09
+3/28/2024,P0043,56,South,37.81,7,Wholesale,David,PayPal,No,13.02
+3/28/2024,P0031,401,North,20.67,2,Retail,Bob,Credit Card,No,19.31
+3/28/2024,P0028,215,North,21.01,12,Retail,David,Cash,No,6.7
+3/28/2024,P0008,394,West,4.41,5,Online,Charlie,PayPal,No,8.12
+3/28/2024,P0029,390,North,10.1,16,Online,Charlie,Bank Transfer,Yes,19.44
+3/28/2024,P0021,86,East,7.73,8,Online,Charlie,Cash,No,19.36
+3/28/2024,P0081,268,East,24.08,8,Retail,Alice,PayPal,No,7.66
+3/28/2024,P0088,446,East,26.46,13,Retail,Alice,PayPal,No,7.18
+3/28/2024,P0058,101,East,47.45,14,Wholesale,Alice,Cash,No,11.32
+3/28/2024,P0060,431,West,3.66,11,Retail,Bob,Cash,Yes,5.75
+3/28/2024,P0050,444,East,29.99,6,Retail,Alice,Credit Card,Yes,14.82
+3/28/2024,P0100,408,North,26.32,16,Wholesale,Charlie,Bank Transfer,No,6.16
+3/28/2024,P0031,109,East,25.81,15,Retail,Alice,Credit Card,No,5.87
+3/28/2024,P0047,392,West,43.66,16,Wholesale,Alice,Credit Card,Yes,12.28
+3/28/2024,P0034,204,South,10.28,13,Wholesale,David,Bank Transfer,No,19.37
+3/28/2024,P0002,201,North,2.04,12,Online,Alice,Bank Transfer,No,11.4
+3/29/2024,P0067,77,North,33.61,18,Retail,David,Credit Card,No,10.35
+3/29/2024,P0094,398,West,17.26,18,Online,Alice,Cash,No,19.97
+3/29/2024,P0072,251,South,0.88,14,Retail,David,Bank Transfer,No,12.98
+3/29/2024,P0052,99,East,12.57,2,Online,Charlie,Credit Card,No,10.63
+3/29/2024,P0007,354,South,15.47,2,Wholesale,Alice,Cash,No,10.79
+3/29/2024,P0076,19,North,30.84,3,Wholesale,Charlie,PayPal,No,7.92
+3/29/2024,P0019,273,North,8.63,8,Wholesale,Alice,Cash,No,12.68
+3/29/2024,P0090,277,North,20.65,11,Wholesale,Bob,Credit Card,No,11.58
+3/29/2024,P0092,329,South,24.12,12,Retail,Bob,Bank Transfer,No,9.06
+3/29/2024,P0015,127,East,22.96,4,Retail,Charlie,Cash,No,7.41
+3/29/2024,P0078,259,North,48.7,9,Online,Charlie,Cash,Yes,9.67
+3/29/2024,P0048,68,West,2.28,17,Retail,Bob,Cash,No,12.63
+3/29/2024,P0014,204,East,47.55,16,Retail,Bob,Bank Transfer,Yes,5.87
+3/29/2024,P0003,484,North,29.1,17,Online,David,Bank Transfer,No,7.31
+3/29/2024,P0050,59,East,39.79,15,Wholesale,Alice,Cash,No,19.21
+3/29/2024,P0093,416,West,21.52,7,Online,Bob,Cash,No,13.14
+3/29/2024,P0054,305,South,22.69,10,Online,Charlie,Credit Card,No,5.95
+3/29/2024,P0006,387,North,43.97,4,Wholesale,Charlie,Bank Transfer,Yes,15.4
+3/29/2024,P0049,106,West,44.8,14,Online,Bob,Cash,No,5.93
+3/29/2024,P0023,471,North,11.93,14,Online,Charlie,Bank Transfer,No,16.08
+3/29/2024,P0092,136,North,9.96,14,Online,Alice,Bank Transfer,No,16.25
+3/29/2024,P0078,255,South,24.81,14,Retail,David,Bank Transfer,Yes,14.77
+3/29/2024,P0078,96,South,45.01,18,Wholesale,Alice,Credit Card,No,15.98
+3/29/2024,P0020,488,East,16.12,15,Wholesale,David,PayPal,No,6.32
+3/30/2024,P0077,86,West,32.6,19,Online,David,Bank Transfer,No,15.9
+3/30/2024,P0091,386,West,35.41,13,Retail,Bob,Bank Transfer,No,7.05
+3/30/2024,P0060,213,South,38.93,12,Wholesale,Charlie,Cash,No,10.09
+3/30/2024,P0099,492,North,28.2,19,Wholesale,David,Bank Transfer,No,19.14
+3/30/2024,P0045,155,East,20.12,19,Online,Bob,PayPal,No,12.54
+3/30/2024,P0061,158,South,48.35,2,Online,Charlie,Bank Transfer,No,19.51
+3/30/2024,P0056,120,East,30.57,3,Online,Charlie,Credit Card,Yes,6.33
+3/30/2024,P0002,499,East,36.43,10,Wholesale,David,Cash,No,12.16
+3/30/2024,P0045,138,West,17.25,5,Online,Charlie,PayPal,No,5.94
+3/30/2024,P0040,262,East,33.5,12,Online,Alice,Credit Card,No,14.45
+3/30/2024,P0024,175,West,12.89,7,Online,Charlie,PayPal,No,6.18
+3/30/2024,P0029,306,North,12.25,9,Retail,Alice,Cash,No,7.63
+3/30/2024,P0067,435,North,35.74,2,Online,Charlie,Bank Transfer,No,8.88
+3/30/2024,P0068,146,South,26.07,10,Wholesale,David,Cash,No,16.23
+3/30/2024,P0066,288,North,34.16,6,Online,David,Cash,No,7.46
+3/30/2024,P0084,343,West,13.47,12,Wholesale,Bob,Bank Transfer,No,17.7
+3/30/2024,P0054,20,East,29.94,6,Retail,Alice,Credit Card,No,6.98
+3/30/2024,P0053,80,East,22.2,3,Retail,Alice,PayPal,No,5.53
+3/30/2024,P0079,168,North,29.85,10,Online,David,Credit Card,Yes,10.93
+3/30/2024,P0049,225,West,14.54,9,Wholesale,David,Bank Transfer,No,19.69
+3/30/2024,P0032,35,East,35.77,5,Online,David,PayPal,No,6.66
+3/30/2024,P0061,295,North,40.3,3,Online,Alice,Bank Transfer,No,6.53
+3/30/2024,P0042,171,West,13,5,Wholesale,Bob,Credit Card,No,16.27
+3/30/2024,P0001,439,West,15.03,8,Wholesale,Alice,Cash,Yes,9.68
+3/31/2024,P0063,111,East,33.06,8,Wholesale,David,PayPal,No,15.76
+3/31/2024,P0035,78,South,34.78,14,Wholesale,Bob,Bank Transfer,No,8
+3/31/2024,P0051,142,South,35.2,17,Wholesale,Charlie,PayPal,No,11.9
+3/31/2024,P0071,198,West,34.13,11,Retail,Charlie,PayPal,No,8.98
+3/31/2024,P0045,220,West,19.64,16,Retail,David,Credit Card,No,11.77
+3/31/2024,P0077,252,North,19.74,6,Retail,Bob,Cash,No,16.54
+3/31/2024,P0065,175,West,12.74,11,Wholesale,David,PayPal,No,16.43
+3/31/2024,P0014,421,North,7.84,10,Wholesale,Alice,Credit Card,No,12.74
+3/31/2024,P0093,419,North,34.63,9,Wholesale,Alice,PayPal,No,18.93
+3/31/2024,P0003,70,North,4.66,15,Online,Bob,Cash,Yes,8.96
+3/31/2024,P0024,371,West,46.89,7,Retail,David,PayPal,No,8.6
+3/31/2024,P0065,288,West,41.33,18,Retail,David,Cash,No,14.21
+3/31/2024,P0048,439,North,42.88,1,Online,Charlie,Credit Card,No,14.32
+3/31/2024,P0010,122,East,45.33,15,Online,Bob,Credit Card,No,5.7
+3/31/2024,P0013,39,West,20.43,2,Retail,David,Cash,No,14.12
+3/31/2024,P0100,332,South,42.34,2,Wholesale,Alice,Cash,No,10.62
+3/31/2024,P0073,485,East,7.9,10,Retail,David,Credit Card,No,16.21
+3/31/2024,P0014,170,South,1.08,15,Wholesale,David,Cash,No,17.12
+3/31/2024,P0100,243,West,39.24,10,Retail,Alice,Cash,No,13.28
+3/31/2024,P0010,396,East,3.74,19,Retail,Alice,Bank Transfer,No,5.03
+3/31/2024,P0040,462,West,49.43,13,Online,David,PayPal,No,14.55
+3/31/2024,P0023,386,West,33.74,11,Online,Alice,Credit Card,No,16.23
+3/31/2024,P0099,348,East,37.67,2,Wholesale,Charlie,Credit Card,No,8.73
+3/31/2024,P0055,179,West,12.29,13,Wholesale,Charlie,Bank Transfer,No,11.97
+4/1/2024,P0063,327,East,33.69,1,Retail,Charlie,Cash,No,19.49
+4/1/2024,P0071,195,West,2.16,5,Online,Alice,Cash,Yes,9.47
+4/1/2024,P0042,66,North,41.89,7,Wholesale,Alice,Cash,No,8.35
+4/1/2024,P0099,249,South,8.48,13,Wholesale,Alice,Credit Card,Yes,8.16
+4/1/2024,P0066,266,North,34.87,13,Wholesale,Bob,Bank Transfer,No,13.38
+4/1/2024,P0079,367,West,11.22,6,Retail,Alice,PayPal,No,19.25
+4/1/2024,P0073,210,West,3.42,12,Wholesale,Charlie,Bank Transfer,No,14.13
+4/1/2024,P0047,453,West,24.07,8,Wholesale,Charlie,Credit Card,No,9.55
+4/1/2024,P0081,334,North,8.46,9,Online,Charlie,PayPal,Yes,14.58
+4/1/2024,P0052,324,West,36.47,18,Online,Bob,Cash,No,14.37
+4/1/2024,P0018,311,East,11.88,11,Online,David,Bank Transfer,No,13.95
+4/1/2024,P0079,115,South,17.12,11,Retail,Charlie,Bank Transfer,No,7.39
+4/1/2024,P0018,299,West,28.37,15,Online,Bob,Credit Card,No,14.52
+4/1/2024,P0024,110,West,14.25,9,Online,David,Bank Transfer,No,11.45
+4/1/2024,P0023,106,South,18.9,3,Online,Bob,PayPal,No,5.28
+4/1/2024,P0012,162,South,40.78,17,Online,Bob,Bank Transfer,No,13.1
+4/1/2024,P0023,435,South,8.96,17,Wholesale,David,Credit Card,No,19.84
+4/1/2024,P0021,38,North,4.11,3,Retail,Alice,Bank Transfer,No,10.25
+4/1/2024,P0064,162,North,16.42,19,Wholesale,Alice,PayPal,No,19.48
+4/1/2024,P0090,447,West,21.22,9,Wholesale,Charlie,PayPal,No,6.44
+4/1/2024,P0072,388,South,27.13,17,Retail,David,Credit Card,No,15.99
+4/1/2024,P0094,82,West,18.62,18,Wholesale,Charlie,Cash,No,6.71
+4/1/2024,P0034,263,West,39.5,15,Online,Bob,Credit Card,Yes,9.1
+4/1/2024,P0002,460,West,1.97,1,Retail,Alice,Cash,No,13.56
+4/2/2024,P0069,408,North,21.59,10,Wholesale,Charlie,PayPal,Yes,13.89
+4/2/2024,P0031,13,South,19.11,8,Wholesale,Charlie,Bank Transfer,No,16.63
+4/2/2024,P0097,246,West,32.38,10,Online,Alice,Bank Transfer,No,14.23
+4/2/2024,P0068,47,North,48.31,2,Wholesale,Bob,PayPal,No,13.9
+4/2/2024,P0070,29,East,25.52,19,Wholesale,Charlie,Credit Card,No,18.69
+4/2/2024,P0087,122,East,49.34,14,Wholesale,Charlie,Bank Transfer,No,11.78
+4/2/2024,P0019,32,West,15.11,8,Retail,David,Credit Card,No,8.38
+4/2/2024,P0072,430,West,1.54,19,Retail,David,Bank Transfer,Yes,7.43
+4/2/2024,P0013,455,South,8.28,1,Wholesale,Alice,Cash,No,11
+4/2/2024,P0065,376,South,19.76,16,Wholesale,Alice,Bank Transfer,No,15.69
+4/2/2024,P0006,145,West,15.82,15,Online,Bob,Cash,No,5.64
+4/2/2024,P0071,430,North,4.85,5,Retail,Bob,Bank Transfer,Yes,6.94
+4/2/2024,P0027,257,West,21.63,3,Retail,Charlie,Bank Transfer,No,6.59
+4/2/2024,P0079,310,South,16.91,17,Retail,David,Bank Transfer,No,13.78
+4/2/2024,P0052,106,South,6.13,10,Wholesale,Bob,Bank Transfer,No,8.64
+4/2/2024,P0098,42,North,14.81,5,Online,Charlie,Bank Transfer,No,7.49
+4/2/2024,P0087,144,West,44.32,11,Online,Charlie,Credit Card,No,13.89
+4/2/2024,P0048,264,South,15.1,6,Wholesale,Alice,Cash,No,16.42
+4/2/2024,P0088,287,West,35.7,4,Wholesale,David,Cash,No,9.98
+4/2/2024,P0079,142,South,30.6,7,Online,Charlie,Bank Transfer,No,13.67
+4/2/2024,P0099,247,East,21.36,19,Online,Alice,Credit Card,Yes,6.47
+4/2/2024,P0068,24,East,11.95,7,Retail,Charlie,Credit Card,No,19.03
+4/2/2024,P0044,286,East,18.45,14,Wholesale,David,PayPal,Yes,10.05
+4/2/2024,P0017,135,South,29.61,17,Retail,Charlie,PayPal,No,19.96
+4/3/2024,P0095,354,North,17.54,17,Online,Charlie,Credit Card,No,19.68
+4/3/2024,P0038,26,East,10.74,13,Retail,Bob,PayPal,No,16.68
+4/3/2024,P0010,321,South,5.82,1,Online,Bob,Cash,No,5.3
+4/3/2024,P0054,59,West,43.99,2,Online,Alice,Credit Card,Yes,13.15
+4/3/2024,P0091,144,East,22.02,18,Retail,Charlie,PayPal,No,6.3
+4/3/2024,P0006,127,North,31.26,4,Wholesale,Alice,Credit Card,No,18.43
+4/3/2024,P0006,387,North,24.52,13,Retail,David,PayPal,Yes,16.84
+4/3/2024,P0052,315,North,43.63,1,Retail,Alice,Credit Card,No,19.59
+4/3/2024,P0015,69,West,27.35,4,Wholesale,Charlie,Bank Transfer,No,14.13
+4/3/2024,P0068,134,West,24.04,2,Wholesale,Bob,Cash,No,12.83
+4/3/2024,P0057,476,North,46.23,4,Retail,Bob,PayPal,No,12.78
+4/3/2024,P0056,125,North,35.98,16,Online,Alice,Bank Transfer,No,10.8
+4/3/2024,P0007,400,North,5.58,4,Retail,Bob,Credit Card,No,12.03
+4/3/2024,P0051,433,West,8.89,9,Online,Charlie,Bank Transfer,No,14.53
+4/3/2024,P0058,182,West,39.36,17,Wholesale,Charlie,Cash,No,18.99
+4/3/2024,P0064,196,South,41.79,2,Wholesale,David,PayPal,No,13.94
+4/3/2024,P0026,97,East,27.26,3,Online,Bob,PayPal,No,17.86
+4/3/2024,P0058,212,West,27.72,15,Retail,Bob,Credit Card,No,17.94
+4/3/2024,P0031,370,North,31.6,7,Wholesale,David,Cash,No,12.78
+4/3/2024,P0066,320,East,21.96,4,Online,Alice,Bank Transfer,No,10.21
+4/3/2024,P0092,329,West,34.01,12,Online,David,Credit Card,No,14.59
+4/3/2024,P0013,458,East,5.42,1,Retail,Bob,PayPal,No,11.69
+4/3/2024,P0018,191,South,48.06,17,Online,Alice,Bank Transfer,No,6.22
+4/3/2024,P0094,361,West,37.51,4,Online,Charlie,Credit Card,No,10.67
+4/4/2024,P0075,177,North,31.56,4,Retail,Charlie,Bank Transfer,No,19.91
+4/4/2024,P0013,190,North,15.82,9,Wholesale,David,Bank Transfer,Yes,5.73
+4/4/2024,P0024,309,South,8.05,10,Wholesale,Charlie,Credit Card,No,15.45
+4/4/2024,P0057,456,South,20.47,19,Wholesale,Bob,Bank Transfer,No,17.62
+4/4/2024,P0029,139,South,33.08,19,Online,David,Bank Transfer,Yes,14.73
+4/4/2024,P0056,472,South,31.69,15,Online,Bob,Cash,No,13.55
+4/4/2024,P0054,158,South,19.13,17,Retail,Bob,Cash,No,15.61
+4/4/2024,P0005,481,West,30.66,7,Online,Alice,PayPal,No,11.44
+4/4/2024,P0035,315,West,40.69,3,Online,Alice,Cash,No,6.37
+4/4/2024,P0019,218,East,1.31,5,Wholesale,Alice,Credit Card,No,19.44
+4/4/2024,P0055,120,South,22.53,16,Online,Charlie,Bank Transfer,No,11.48
+4/4/2024,P0077,445,North,37.93,7,Online,Alice,PayPal,No,14.98
+4/4/2024,P0069,146,North,27.31,16,Online,Bob,Cash,Yes,12.97
+4/4/2024,P0044,364,South,32.57,9,Retail,David,Bank Transfer,Yes,5.82
+4/4/2024,P0078,413,South,25.83,1,Online,David,Credit Card,No,19.29
+4/4/2024,P0038,220,South,49.59,3,Retail,Bob,Bank Transfer,No,16.89
+4/4/2024,P0062,155,South,2.73,8,Wholesale,Charlie,Credit Card,No,7.24
+4/4/2024,P0022,93,South,24.55,18,Online,David,Bank Transfer,No,19.72
+4/4/2024,P0073,39,North,4.57,18,Retail,Bob,PayPal,No,16.05
+4/4/2024,P0040,497,East,7.99,19,Wholesale,Bob,PayPal,No,12.08
+4/4/2024,P0026,74,South,19.15,7,Online,Bob,Cash,No,14.17
+4/4/2024,P0005,33,South,7.78,6,Retail,David,Cash,No,6.6
+4/4/2024,P0093,481,South,48.18,11,Retail,David,Bank Transfer,No,13.41
+4/4/2024,P0054,440,West,47.34,5,Wholesale,Alice,Bank Transfer,No,6.1
+4/5/2024,P0086,220,North,16.81,12,Online,Alice,Cash,No,13.17
+4/5/2024,P0049,231,North,31.99,1,Online,Bob,Cash,No,13.29
+4/5/2024,P0003,99,East,26.69,19,Online,Bob,Bank Transfer,No,18.12
+4/5/2024,P0092,115,West,40.78,11,Retail,Bob,Bank Transfer,Yes,15.88
+4/5/2024,P0038,181,West,31.37,15,Online,Bob,Bank Transfer,No,8.74
+4/5/2024,P0014,239,West,0.01,16,Retail,David,PayPal,No,18.33
+4/5/2024,P0047,422,East,38.16,3,Retail,Alice,Credit Card,No,13.6
+4/5/2024,P0014,86,East,37.34,11,Wholesale,Charlie,Credit Card,No,14.1
+4/5/2024,P0075,77,East,25.49,11,Retail,Bob,Cash,No,7.53
+4/5/2024,P0073,374,West,45.15,10,Wholesale,Alice,PayPal,No,17.87
+4/5/2024,P0038,410,North,45.42,2,Wholesale,Bob,Bank Transfer,No,18.96
+4/5/2024,P0064,362,West,26.2,5,Online,David,Bank Transfer,No,16.62
+4/5/2024,P0044,398,East,30.4,8,Wholesale,Charlie,Cash,No,19.11
+4/5/2024,P0070,101,West,49.83,13,Online,Alice,Cash,No,9.53
+4/5/2024,P0065,97,South,14.94,15,Wholesale,Alice,PayPal,No,17.92
+4/5/2024,P0025,474,West,16.23,2,Retail,Charlie,Credit Card,No,12.33
+4/5/2024,P0016,59,West,9.14,12,Online,David,Credit Card,No,7.46
+4/5/2024,P0015,112,North,44.79,8,Retail,Charlie,Bank Transfer,No,15.03
+4/5/2024,P0098,377,North,37.22,19,Online,Alice,Cash,No,15.26
+4/5/2024,P0081,433,North,5.28,1,Retail,Charlie,PayPal,No,9.3
+4/5/2024,P0003,55,South,49.09,8,Wholesale,David,Bank Transfer,No,5.41
+4/5/2024,P0067,188,North,36.55,10,Online,David,Credit Card,No,8
+4/5/2024,P0037,276,South,42.53,13,Online,Bob,Credit Card,No,11
+4/5/2024,P0081,277,East,2.41,5,Online,Charlie,PayPal,Yes,7.51
+4/6/2024,P0055,406,North,25.25,9,Wholesale,Charlie,Bank Transfer,No,7.91
+4/6/2024,P0038,329,West,34.93,10,Retail,Alice,PayPal,No,10.87
+4/6/2024,P0063,17,West,27.15,14,Wholesale,David,Bank Transfer,No,19.43
+4/6/2024,P0001,458,South,33.33,11,Wholesale,Charlie,Credit Card,No,16.46
+4/6/2024,P0071,274,North,40.89,14,Wholesale,Alice,Cash,No,9.8
+4/6/2024,P0090,485,West,18.72,3,Retail,Bob,Cash,Yes,19.27
+4/6/2024,P0019,395,East,42.43,16,Wholesale,Charlie,Credit Card,No,14.68
+4/6/2024,P0052,87,North,8.15,17,Online,Charlie,Cash,No,11.83
+4/6/2024,P0030,406,East,13.54,5,Wholesale,Alice,Cash,No,12.02
+4/6/2024,P0055,249,West,2.17,7,Retail,Alice,Bank Transfer,No,11.16
+4/6/2024,P0014,267,North,18.22,17,Online,David,PayPal,No,8.49
+4/6/2024,P0013,205,South,19,11,Retail,David,Bank Transfer,No,10.8
+4/6/2024,P0084,469,West,40.26,12,Wholesale,David,PayPal,No,12.92
+4/6/2024,P0090,441,East,32.66,2,Retail,Charlie,PayPal,Yes,12.92
+4/6/2024,P0027,339,North,21.84,19,Online,Alice,Cash,No,16.43
+4/6/2024,P0089,140,East,32.61,5,Retail,David,PayPal,No,10.38
+4/6/2024,P0009,461,East,2.64,11,Online,Charlie,PayPal,No,15.75
+4/6/2024,P0041,399,South,9.01,19,Online,David,Credit Card,No,13.67
+4/6/2024,P0048,352,South,31.35,7,Wholesale,Bob,PayPal,No,19.43
+4/6/2024,P0012,270,West,32.07,6,Wholesale,Charlie,Credit Card,No,10.78
+4/6/2024,P0010,251,South,38.71,11,Online,David,Bank Transfer,No,18.52
+4/6/2024,P0006,396,South,20.15,14,Retail,David,Cash,No,17.31
+4/6/2024,P0034,403,West,36.13,4,Online,Bob,PayPal,No,14.56
+4/6/2024,P0052,180,West,34.2,8,Wholesale,Bob,Credit Card,No,14.82
+4/7/2024,P0041,156,West,48.17,9,Retail,David,Bank Transfer,No,6.27
+4/7/2024,P0083,279,West,10.76,2,Online,David,Bank Transfer,No,19.25
+4/7/2024,P0006,158,East,27.58,11,Wholesale,Alice,Bank Transfer,No,6.6
+4/7/2024,P0002,389,East,30.09,7,Online,David,Credit Card,No,13.45
+4/7/2024,P0015,308,West,49.93,4,Online,David,Credit Card,No,9.95
+4/7/2024,P0017,37,West,10.06,14,Online,Alice,Cash,No,11.45
+4/7/2024,P0016,158,North,26.16,1,Retail,Alice,PayPal,No,14.15
+4/7/2024,P0028,429,North,17.31,12,Wholesale,David,Bank Transfer,No,18.63
+4/7/2024,P0085,289,North,26.29,19,Wholesale,Alice,Cash,No,11.86
+4/7/2024,P0072,191,South,11.61,5,Online,Charlie,Credit Card,No,19.82
+4/7/2024,P0010,175,East,2.38,8,Online,Bob,Cash,No,13.89
+4/7/2024,P0010,26,East,28.63,11,Online,Charlie,Bank Transfer,No,7.41
+4/7/2024,P0010,159,North,16.79,4,Retail,Bob,Bank Transfer,No,7.85
+4/7/2024,P0073,348,North,9.1,15,Wholesale,Bob,Cash,No,15.74
+4/7/2024,P0028,54,East,16.2,12,Online,David,Bank Transfer,Yes,5.76
+4/7/2024,P0024,339,South,2.46,10,Wholesale,Bob,Credit Card,No,12.21
+4/7/2024,P0019,198,North,47.52,16,Online,Charlie,Bank Transfer,No,7.22
+4/7/2024,P0097,148,West,29.06,8,Wholesale,David,PayPal,No,11.5
+4/7/2024,P0068,70,North,40.74,8,Online,Alice,PayPal,No,16.25
+4/7/2024,P0056,303,East,21.16,6,Retail,Charlie,Bank Transfer,No,11.88
+4/7/2024,P0067,331,East,45.17,3,Online,David,Cash,No,7.45
+4/7/2024,P0042,42,North,24.17,8,Online,Bob,Bank Transfer,No,8.78
+4/7/2024,P0012,308,North,28.7,10,Online,Charlie,PayPal,No,10.51
+4/7/2024,P0018,424,West,24.59,5,Online,Bob,Credit Card,No,6.04
+4/8/2024,P0023,121,West,36.66,11,Online,David,PayPal,No,13.77
+4/8/2024,P0084,300,South,28.33,4,Wholesale,David,Bank Transfer,No,14.11
+4/8/2024,P0006,46,South,13.58,17,Wholesale,Alice,Bank Transfer,No,5.93
+4/8/2024,P0053,440,West,7.28,3,Retail,Alice,Cash,No,11.03
+4/8/2024,P0098,109,South,30.31,18,Online,Charlie,Bank Transfer,No,11.21
+4/8/2024,P0042,32,South,24.46,8,Wholesale,Alice,Bank Transfer,No,10.01
+4/8/2024,P0066,429,North,4.8,12,Wholesale,Bob,Credit Card,No,13.37
+4/8/2024,P0030,433,West,19.78,16,Online,Bob,Credit Card,No,10.19
+4/8/2024,P0009,496,North,25.74,14,Online,Alice,Credit Card,Yes,11.25
+4/8/2024,P0091,227,North,41.34,16,Retail,Alice,Cash,No,16.96
+4/8/2024,P0042,98,South,3.81,4,Retail,Alice,Cash,Yes,7.43
+4/8/2024,P0034,218,North,17.42,1,Wholesale,Charlie,PayPal,No,14.29
+4/8/2024,P0040,280,East,41.13,1,Retail,Charlie,Cash,No,12.58
+4/8/2024,P0088,430,South,32.42,15,Wholesale,Bob,Credit Card,No,9.58
+4/8/2024,P0017,246,East,14.5,3,Retail,Charlie,Cash,No,15.91
+4/8/2024,P0029,397,South,42.27,14,Online,Charlie,Bank Transfer,Yes,13.27
+4/8/2024,P0100,415,North,24.66,9,Retail,David,Cash,No,12.16
+4/8/2024,P0050,218,South,24.92,19,Wholesale,Bob,Bank Transfer,No,15.02
+4/8/2024,P0076,287,East,48.83,8,Retail,Bob,PayPal,No,17.03
+4/8/2024,P0095,474,South,47.36,2,Wholesale,Alice,Bank Transfer,No,19.59
+4/8/2024,P0049,215,East,17.93,4,Wholesale,David,Credit Card,Yes,14.44
+4/8/2024,P0073,87,West,7.03,1,Retail,Alice,PayPal,No,18.12
+4/8/2024,P0061,410,North,16.28,11,Retail,Charlie,PayPal,No,5.02
+4/8/2024,P0083,337,East,1.52,5,Wholesale,Bob,PayPal,No,12.95
+4/9/2024,P0046,107,West,1.04,2,Online,Charlie,Credit Card,Yes,8.22
+4/9/2024,P0046,355,North,19.78,13,Retail,Charlie,Bank Transfer,No,6.41
+4/9/2024,P0017,374,West,47.05,17,Wholesale,David,PayPal,Yes,12.98
+4/9/2024,P0066,359,East,43.57,17,Online,David,Credit Card,No,16.2
+4/9/2024,P0005,479,North,25.57,18,Wholesale,Bob,PayPal,No,11.18
+4/9/2024,P0054,345,West,28.26,9,Retail,Bob,PayPal,No,15.05
+4/9/2024,P0016,103,East,0.3,6,Wholesale,David,Credit Card,No,12.35
+4/9/2024,P0081,89,West,10.78,3,Wholesale,David,Cash,No,11.56
+4/9/2024,P0091,47,North,1.24,8,Wholesale,David,PayPal,No,9.35
+4/9/2024,P0007,417,North,37.73,3,Retail,David,Cash,No,10.74
+4/9/2024,P0008,237,North,7.28,1,Online,Bob,PayPal,No,10.25
+4/9/2024,P0072,492,East,43.45,13,Online,Bob,Cash,No,14.69
+4/9/2024,P0087,143,West,32.17,5,Online,Charlie,Bank Transfer,No,6.74
+4/9/2024,P0096,205,West,11.47,16,Online,Charlie,Cash,No,6.39
+4/9/2024,P0082,475,East,7.89,16,Retail,Charlie,Cash,No,14.9
+4/9/2024,P0038,399,North,31.38,12,Wholesale,Bob,Cash,No,13.19
+4/9/2024,P0054,291,South,45.04,13,Online,Alice,Cash,Yes,11.45
+4/9/2024,P0076,110,North,35.92,4,Online,Charlie,Bank Transfer,No,7.29
+4/9/2024,P0015,484,South,17.43,9,Retail,Alice,Credit Card,No,11.17
+4/9/2024,P0092,434,North,29.37,16,Wholesale,Alice,Cash,No,16.85
+4/9/2024,P0050,84,East,15.54,1,Wholesale,Alice,Credit Card,No,18.34
+4/9/2024,P0056,303,South,49.96,5,Online,David,PayPal,No,15.54
+4/9/2024,P0095,217,East,37.44,5,Online,Bob,Credit Card,No,5.9
+4/9/2024,P0009,92,South,30.72,19,Wholesale,Bob,Cash,No,15.06
+4/10/2024,P0008,436,West,21.16,9,Retail,Charlie,Credit Card,No,8.61
+4/10/2024,P0019,446,South,30.91,8,Wholesale,Charlie,Bank Transfer,No,9.73
+4/10/2024,P0051,152,South,17.08,19,Wholesale,Bob,Bank Transfer,No,7.94
+4/10/2024,P0072,483,South,1.44,18,Online,David,Cash,Yes,16.64
+4/10/2024,P0098,65,West,19.75,15,Retail,Bob,Credit Card,Yes,14.73
+4/10/2024,P0057,370,East,46.52,4,Retail,Alice,PayPal,No,14.18
+4/10/2024,P0068,449,West,31.32,15,Retail,Bob,Bank Transfer,No,15.02
+4/10/2024,P0031,296,South,4.2,13,Online,David,Cash,No,8.55
+4/10/2024,P0003,220,North,44.25,18,Retail,Bob,Bank Transfer,No,11.67
+4/10/2024,P0099,450,West,13.44,5,Retail,Bob,Cash,No,14.5
+4/10/2024,P0083,188,North,12.19,18,Online,Bob,Credit Card,No,14.55
+4/10/2024,P0043,417,West,14.85,8,Wholesale,Alice,Credit Card,No,16.88
+4/10/2024,P0029,67,West,28.86,1,Retail,Charlie,Credit Card,No,9.31
+4/10/2024,P0010,82,South,27.23,19,Wholesale,David,Credit Card,No,16.56
+4/10/2024,P0012,224,East,24.57,17,Retail,Alice,Credit Card,No,11.6
+4/10/2024,P0046,397,East,35.88,2,Wholesale,Bob,Cash,No,15.05
+4/10/2024,P0030,275,South,15.83,19,Wholesale,Bob,Bank Transfer,No,11.84
+4/10/2024,P0094,456,West,39.1,16,Online,Charlie,PayPal,Yes,19.23
+4/10/2024,P0082,82,East,8.77,18,Online,Charlie,Bank Transfer,No,7.69
+4/10/2024,P0088,476,East,39.13,2,Retail,Charlie,Credit Card,No,15.13
+4/10/2024,P0032,280,East,33.19,6,Retail,Alice,Bank Transfer,No,13.65
+4/10/2024,P0073,363,South,34.16,7,Online,David,Bank Transfer,No,7.59
+4/10/2024,P0047,243,North,24.08,6,Retail,Charlie,Cash,No,5.99
+4/10/2024,P0088,328,North,33.35,6,Retail,Bob,PayPal,No,16.99
+4/11/2024,P0063,28,North,3.99,9,Online,David,PayPal,No,7.36
+4/11/2024,P0026,122,North,42.58,8,Wholesale,Bob,Credit Card,No,7.8
+4/11/2024,P0003,72,North,2.78,9,Retail,Bob,Cash,No,19.68
+4/11/2024,P0023,381,East,7.44,12,Online,David,Cash,No,15.76
+4/11/2024,P0075,193,East,28.84,18,Retail,Alice,Cash,No,8.76
+4/11/2024,P0074,286,West,36.97,6,Retail,David,Cash,No,13.86
+4/11/2024,P0050,171,East,3.81,4,Online,Charlie,Cash,No,13.01
+4/11/2024,P0036,252,South,46.04,7,Online,David,PayPal,Yes,17.67
+4/11/2024,P0013,154,West,48.68,18,Retail,Charlie,PayPal,No,15.94
+4/11/2024,P0029,155,East,30.3,5,Retail,Charlie,Bank Transfer,No,17.48
+4/11/2024,P0038,90,West,24.06,18,Wholesale,David,PayPal,No,8.17
+4/11/2024,P0077,331,West,37.07,10,Wholesale,David,Cash,No,14.6
+4/11/2024,P0090,444,North,16.42,8,Online,Charlie,Bank Transfer,No,5.6
+4/11/2024,P0084,330,West,24.66,1,Retail,Bob,PayPal,No,6.03
+4/11/2024,P0005,52,East,45.81,15,Online,David,Bank Transfer,No,15.7
+4/11/2024,P0020,322,North,47.78,3,Online,Alice,PayPal,No,5.37
+4/11/2024,P0078,403,East,46.35,15,Retail,Charlie,Credit Card,No,13.7
+4/11/2024,P0014,302,North,13.12,14,Wholesale,Bob,PayPal,Yes,17.61
+4/11/2024,P0008,185,East,11.62,1,Online,David,Bank Transfer,No,10.7
+4/11/2024,P0048,385,North,14.88,8,Online,David,Credit Card,No,5.67
